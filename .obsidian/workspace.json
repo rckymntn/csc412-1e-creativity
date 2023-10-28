@@ -1,43 +1,43 @@
 {
   "main": {
-    "id": "2e5ed923744060f2",
+    "id": "114801a8f9b49ba5",
     "type": "split",
     "children": [
       {
-        "id": "9d6340d9065d4dd2",
+        "id": "519a58ea1cdfb12f",
         "type": "tabs",
         "children": [
           {
-            "id": "5eb15f06205b5aeb",
+            "id": "52a1a351b68219dd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 - How Technology Enhances Creativity in the Video Game Creation Process.md",
+                "file": "Using Technology To Enhance Story.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "fc13af16c026a00b",
+            "id": "458e3058dfcd8d44",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Using Technology to Enhance Sound.md",
+                "file": "Using Technology To Enhance Story.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "388f07b5d670265f",
+            "id": "418f38952bb2c2ca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Using Technology to Enhance Sound.md",
+                "file": "Using Technology To Enhance Story.md",
                 "mode": "source",
                 "source": false
               }
@@ -50,15 +50,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "c99cf6c73def7d0e",
+    "id": "5c8cc9e7d67867e1",
     "type": "split",
     "children": [
       {
-        "id": "a7f47e5e1a0e73e2",
+        "id": "9cfa1056fb2f2693",
         "type": "tabs",
         "children": [
           {
-            "id": "19be7de935542803",
+            "id": "d0eee4aa9445f9e5",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -68,7 +68,7 @@
             }
           },
           {
-            "id": "04c1878313d9eb9f",
+            "id": "fcd0a4bfc13e7328",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -83,7 +83,7 @@
             }
           },
           {
-            "id": "88b09b5ff3fa22b2",
+            "id": "9a5a12bf75309cd8",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -97,20 +97,20 @@
     "width": 300
   },
   "right": {
-    "id": "2cbd9cec9691a8e6",
+    "id": "8d81f15b578bfea8",
     "type": "split",
     "children": [
       {
-        "id": "7f39b1d02108501a",
+        "id": "969dec5687077bfe",
         "type": "tabs",
         "children": [
           {
-            "id": "298134037b80ba1a",
+            "id": "3a16a2f739716d15",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Using Technology to Enhance Sound.md",
+                "file": "Using Technology To Enhance Story.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,19 +122,19 @@
             }
           },
           {
-            "id": "83d63b239761e132",
+            "id": "78e1ff5485d591f3",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Using Technology to Enhance Sound.md",
+                "file": "Using Technology To Enhance Story.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "eab9cd6d9018cafc",
+            "id": "ebce58cc52eccc03",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -145,12 +145,12 @@
             }
           },
           {
-            "id": "57748b410655ec8d",
+            "id": "f6098d9a2cab49c1",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Using Technology to Enhance Sound.md"
+                "file": "Using Technology To Enhance Story.md"
               }
             }
           }
@@ -171,13 +171,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "388f07b5d670265f",
+  "active": "418f38952bb2c2ca",
   "lastOpenFiles": [
-    "0 - How Technology Enhances Creativity in the Video Game Creation Process.md",
-    "Using Technology to Enhance Sound.md",
-    "Using Technology to Enhance Visuals.md",
+    "Story Creation Aspects/Environmental Storytelling.md",
     "Using Technology To Enhance Story.md",
+    "Story Creation Aspects",
+    "Using Technology to Enhance Sound.md",
+    "Story Creation Aspects/Procedural generation.md",
+    "Procedural Generation.md",
+    "Story Creation Aspects/Motion Capture.md",
+    "Story Creation Aspects/Generative AI Dialogue.md",
+    "0 - How Technology Enhances Creativity in the Video Game Creation Process.md",
+    "Using Technology To Enhance Story",
+    "Using Technology to Enhance Visuals.md",
+    "Creativity.md",
     "Untitled.canvas",
-    "2023-10-25.md"
+    "2023-10-20.md"
   ]
 }
