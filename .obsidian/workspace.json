@@ -35,12 +35,16 @@
             "id": "388f07b5d670265f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Using Technology to Enhance Sound.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -167,12 +171,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fc13af16c026a00b",
+  "active": "388f07b5d670265f",
   "lastOpenFiles": [
-    "Using Technology To Enhance Story.md",
-    "Using Technology to Enhance Sound.md",
     "0 - How Technology Enhances Creativity in the Video Game Creation Process.md",
+    "Using Technology to Enhance Sound.md",
     "Using Technology to Enhance Visuals.md",
+    "Using Technology To Enhance Story.md",
     "Untitled.canvas",
     "2023-10-25.md"
   ]
