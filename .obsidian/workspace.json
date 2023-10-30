@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Using Technology To Enhance Story.md",
+                "file": "Story Creation Aspects/Procedural Content Generation.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Using Technology To Enhance Story.md",
+                "file": "Story Creation Aspects/Procedural Content Generation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Using Technology To Enhance Story.md",
+                "file": "Story Creation Aspects/Procedural Content Generation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Using Technology To Enhance Story.md"
+                "file": "Story Creation Aspects/Procedural Content Generation.md"
               }
             }
           }
@@ -148,10 +148,10 @@
   },
   "active": "418f38952bb2c2ca",
   "lastOpenFiles": [
+    "Using Technology To Enhance Story.md",
+    "Story Creation Aspects/Procedural Content Generation.md",
     "Story Creation Aspects/Motion Capture.md",
     "Story Creation Aspects/Physically Based Rendering with Adobe's Substance Designer.md",
-    "Story Creation Aspects/Procedural Content Generation.md",
-    "Using Technology To Enhance Story.md",
     "Using Technology to Enhance Visuals.md",
     "Using Technology to Enhance Sound.md",
     "0 - How Technology Enhances Creativity in the Video Game Creation Process.md",

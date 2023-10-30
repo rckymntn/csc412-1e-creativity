@@ -12,7 +12,7 @@ Some ideas regarding procedural generation:
 - [[Physically Based Rendering with Adobe's Substance Designer]]
 	- Fallout/Skyrim as examples
 	- [https://aaltodoc.aalto.fi/handle/123456789/101772](https://aaltodoc.aalto.fi/handle/123456789/101772)
-	- Generative Character Conversations for Background Believability and Storytelling
+	- Generative Character Conversations for Background Believability and Storytelling - https://www.researchgate.net/publication/304628191_Generative_Character_Conversations_for_Background_Believability_and_Storytelling/link/5775809208ae1b18a7dfe0e3/download
 
 - [[Motion Capture]]
 	- The Last of Us as an example
