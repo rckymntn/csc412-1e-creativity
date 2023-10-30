@@ -1,7 +1,9 @@
 
 Simpler Example: Settler's of Catan
 
-Looking for emergent stories. 
+Looking for emergent stories or narrative material. 
+
+
 
 https://www.gdcvault.com/play/1019284/Designing-Games-with-Procedural-Content
 
