@@ -1,5 +1,5 @@
 
-Basic idea: Layering textures over meshes allow people who are not programmers to easily design the environment. This allows the creative writers to design the textures of the environment to fit the story. I.E. creating worn out and decrepit textures for a post-apocalyptic game. 
+Basic idea: Layering textures over meshes allow people who are not programmers to easily design the environment. This allows the designers to have a higher degree of control over the environmental storytelling for the video game. I.E. creating worn out and decrepit textures for a post-apocalyptic game. 
 
 
 
