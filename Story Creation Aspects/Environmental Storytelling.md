@@ -1,4 +1,6 @@
 
+By using 
+
 
 Possible Quotes:
 - "With technological advancements and emerging new tools, the methods for constructing video game environments go through changes. As the methods change with new tools at artists’ disposal, the approach towards spatial design and environmental storytelling also changes."$^1$
