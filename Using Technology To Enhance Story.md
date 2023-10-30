@@ -5,7 +5,7 @@ Some ideas regarding procedural generation:
 
 
 - Technological Change at the Heart of the Creative Process: Insights From the Videogame Industry
-- [[Procedural generation]]
+- [[Procedural Content Generation]]
 		- [https://aaltodoc.aalto.fi/handle/123456789/101772](https://aaltodoc.aalto.fi/handle/123456789/101772)
 		-  [https://www.tandfonline.com/doi/abs/10.1080/20539320.2022.2150464](https://www.tandfonline.com/doi/abs/10.1080/20539320.2022.2150464)
 
