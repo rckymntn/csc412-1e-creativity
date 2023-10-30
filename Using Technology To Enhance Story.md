@@ -9,7 +9,7 @@ Some ideas regarding procedural generation:
 		- [https://aaltodoc.aalto.fi/handle/123456789/101772](https://aaltodoc.aalto.fi/handle/123456789/101772)
 		-  [https://www.tandfonline.com/doi/abs/10.1080/20539320.2022.2150464](https://www.tandfonline.com/doi/abs/10.1080/20539320.2022.2150464)
 
-- [[Environmental Storytelling]]
+- [[Physically Based Rendering with Adobe's Substance Designer]]
 	- Fallout/Skyrim as examples
 	- Made possible by lighting, props, etc.
 	- [https://aaltodoc.aalto.fi/handle/123456789/101772](https://aaltodoc.aalto.fi/handle/123456789/101772)
