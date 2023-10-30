@@ -11,7 +11,6 @@ Some ideas regarding procedural generation:
 
 - [[Physically Based Rendering with Adobe's Substance Designer]]
 	- Fallout/Skyrim as examples
-	- Made possible by lighting, props, etc.
 	- [https://aaltodoc.aalto.fi/handle/123456789/101772](https://aaltodoc.aalto.fi/handle/123456789/101772)
 	- Generative Character Conversations for Background Believability and Storytelling
 

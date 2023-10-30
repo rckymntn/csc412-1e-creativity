@@ -11,3 +11,5 @@ Possible Quotes:
 
 
 1: https://aaltodoc.aalto.fi/bitstream/handle/123456789/101772/master_Ayyildiz_G%c3%b6rkem_2020.pdf?sequence=1&isAllowed=y
+
+2: https://helpx.adobe.com/substance-3d-designer/home.html
