@@ -1,5 +1,6 @@
 
-By using 
+Basic idea: Layering textures over meshes allow people who are not programmers to easily design the environment without a middleman so the environment is more accurate to their vision of what the story needs.
+
 
 
 Possible Quotes:
