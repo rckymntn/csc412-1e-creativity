@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 - How Technology Enhances Creativity in the Video Game Creation Process.md",
+                "file": "Sound/Accessibility.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0 - How Technology Enhances Creativity in the Video Game Creation Process.md",
+                "file": "Sound/Accessibility.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0 - How Technology Enhances Creativity in the Video Game Creation Process.md",
+                "file": "Sound/Accessibility.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0 - How Technology Enhances Creativity in the Video Game Creation Process.md"
+                "file": "Sound/Accessibility.md"
               }
             }
           }
@@ -148,14 +148,14 @@
   },
   "active": "388f07b5d670265f",
   "lastOpenFiles": [
-    "Sound/Using Technology to Enhance Sound.md",
-    "Sound/Omnidirectional.md",
-    "Sound/Music.md",
     "Sound/Immersion.md",
-    "Sound/Accessibility.md",
-    "0 - How Technology Enhances Creativity in the Video Game Creation Process.md",
-    "Using Technology To Enhance Story.md",
+    "Sound/Music.md",
+    "Sound/Omnidirectional.md",
+    "Sound/Using Technology to Enhance Sound.md",
+    "How Technology Enhances Creativity in the Video Game Creation Process.md",
     "Using Technology to Enhance Visuals.md",
+    "Using Technology To Enhance Story.md",
+    "Sound/Accessibility.md",
     "Story Creation Aspects/Procedural Content Generation.md",
     "Story Creation Aspects/Physically Based Rendering with Adobe's Substance Designer.md",
     "Story Creation Aspects/Motion Capture.md",

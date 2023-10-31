@@ -1,7 +1,3 @@
-## Main entry page 
-
-***Rough Outline
-
 ## Table of Contents
 [[Using Technology To Enhance Story]]
 [[Using Technology to Enhance Sound]]
@@ -13,11 +9,13 @@
 ## Introduction 
 Creativity is a necessary and fundamental characteristic in video game development. Advances in technology can further augment designers' creative process or allow for creative expression. Some key ways in which technology can enhance creativity in video games are in story, sound, and visuals. In story they can blah blah blah. In sound they can blah blah blah. In visuals they can blah blah blah. 
 
-**What is creativity?**
+## What is creativity?
 
-**Overview of Video game creation process**
+## Overview of Video game creation process
 
-**How is technology used in the process -> leads into the sub pages?**
+## How is technology used in the process -> leads into the sub pages?
+
+--- 
 ## Possible sub pages?
 
 ## Some Interesting Papers We could use? - Ruvie
