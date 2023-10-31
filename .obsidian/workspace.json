@@ -1,39 +1,96 @@
 {
   "main": {
-    "id": "114801a8f9b49ba5",
+    "id": "2e5ed923744060f2",
     "type": "split",
     "children": [
       {
-        "id": "519a58ea1cdfb12f",
+        "id": "9d6340d9065d4dd2",
         "type": "tabs",
         "children": [
           {
-            "id": "418f38952bb2c2ca",
+            "id": "fc13af16c026a00b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Using Technology To Enhance Story.md",
+                "file": "Sound/Using Technology to Enhance Sound.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "388f07b5d670265f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sound/Using Technology to Enhance Sound.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "02f3215965451062",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sound/Omnidirectional.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "605ab31e212498a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sound/Accessibility.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aaa74868c0af4a05",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "3c7d0fe658d8b149",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sound/Using Technology to Enhance Sound.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "5c8cc9e7d67867e1",
+    "id": "c99cf6c73def7d0e",
     "type": "split",
     "children": [
       {
-        "id": "9cfa1056fb2f2693",
+        "id": "a7f47e5e1a0e73e2",
         "type": "tabs",
         "children": [
           {
-            "id": "d0eee4aa9445f9e5",
+            "id": "19be7de935542803",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +100,7 @@
             }
           },
           {
-            "id": "fcd0a4bfc13e7328",
+            "id": "04c1878313d9eb9f",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +115,7 @@
             }
           },
           {
-            "id": "9a5a12bf75309cd8",
+            "id": "88b09b5ff3fa22b2",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -72,20 +129,20 @@
     "width": 300
   },
   "right": {
-    "id": "8d81f15b578bfea8",
+    "id": "2cbd9cec9691a8e6",
     "type": "split",
     "children": [
       {
-        "id": "969dec5687077bfe",
+        "id": "7f39b1d02108501a",
         "type": "tabs",
         "children": [
           {
-            "id": "3a16a2f739716d15",
+            "id": "298134037b80ba1a",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Using Technology To Enhance Story.md",
+                "file": "Sound/Omnidirectional.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +154,19 @@
             }
           },
           {
-            "id": "78e1ff5485d591f3",
+            "id": "83d63b239761e132",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Using Technology To Enhance Story.md",
+                "file": "Sound/Omnidirectional.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "ebce58cc52eccc03",
+            "id": "eab9cd6d9018cafc",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,12 +177,12 @@
             }
           },
           {
-            "id": "f6098d9a2cab49c1",
+            "id": "57748b410655ec8d",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Using Technology To Enhance Story.md"
+                "file": "Sound/Omnidirectional.md"
               }
             }
           }
@@ -146,21 +203,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "418f38952bb2c2ca",
+  "active": "02f3215965451062",
   "lastOpenFiles": [
-    "Story Creation Aspects/Procedural Content Generation.md",
-    "Using Technology To Enhance Story.md",
-    "Story Creation Aspects/Motion Capture.md",
-    "Story Creation Aspects/Physically Based Rendering with Adobe's Substance Designer.md",
-    "Using Technology to Enhance Visuals.md",
-    "Using Technology to Enhance Sound.md",
+    "Sound/Immersion.md",
+    "Sound/Using Technology to Enhance Sound.md",
+    "Sound/Omnidirectional.md",
     "0 - How Technology Enhances Creativity in the Video Game Creation Process.md",
-    "Story Creation Aspects",
-    "Procedural Generation.md",
+    "Sound/Accessibility.md",
+    "Story Creation Aspects/Procedural Content Generation.md",
+    "Story Creation Aspects/Physically Based Rendering with Adobe's Substance Designer.md",
+    "Story Creation Aspects/Motion Capture.md",
     "Story Creation Aspects/Generative AI Dialogue.md",
-    "Using Technology To Enhance Story",
-    "Creativity.md",
+    "Using Technology To Enhance Story.md",
+    "Sound",
+    "Using Technology to Enhance Visuals.md",
+    "Story Creation Aspects",
     "Untitled.canvas",
-    "2023-10-20.md"
+    "2023-10-25.md"
   ]
 }
