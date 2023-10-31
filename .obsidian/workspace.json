@@ -8,43 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fc13af16c026a00b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sound/Using Technology to Enhance Sound.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "388f07b5d670265f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sound/Using Technology to Enhance Sound.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "02f3215965451062",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sound/Omnidirectional.md",
+                "file": "0 - How Technology Enhances Creativity in the Video Game Creation Process.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sound/Using Technology to Enhance Sound.md",
+                "file": "0 - How Technology Enhances Creativity in the Video Game Creation Process.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sound/Using Technology to Enhance Sound.md",
+                "file": "0 - How Technology Enhances Creativity in the Video Game Creation Process.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sound/Using Technology to Enhance Sound.md"
+                "file": "0 - How Technology Enhances Creativity in the Video Game Creation Process.md"
               }
             }
           }
@@ -173,10 +148,10 @@
   },
   "active": "388f07b5d670265f",
   "lastOpenFiles": [
-    "Sound/Omnidirectional.md",
-    "Sound/Immersion.md",
-    "Sound/Music.md",
     "Sound/Using Technology to Enhance Sound.md",
+    "Sound/Omnidirectional.md",
+    "Sound/Music.md",
+    "Sound/Immersion.md",
     "Sound/Accessibility.md",
     "0 - How Technology Enhances Creativity in the Video Game Creation Process.md",
     "Using Technology To Enhance Story.md",
