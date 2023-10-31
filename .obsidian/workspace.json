@@ -44,18 +44,6 @@
             }
           },
           {
-            "id": "3e25ab8718a774e9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sound/Music.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "605ab31e212498a5",
             "type": "leaf",
             "state": {
@@ -88,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -154,7 +142,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sound/Music.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +158,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sound/Music.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,9 +179,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Sound/Music.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -215,21 +199,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "19be7de935542803",
+  "active": "aaa74868c0af4a05",
   "lastOpenFiles": [
-    "Sound/Omnidirectional.md",
-    "Sound/Music.md",
-    "Sound/Immersion.md",
-    "Sound/Using Technology to Enhance Sound.md",
     "Sound/Accessibility.md",
+    "Sound/Omnidirectional.md",
+    "Using Technology To Enhance Story.md",
+    "Using Technology to Enhance Visuals.md",
     "0 - How Technology Enhances Creativity in the Video Game Creation Process.md",
     "Story Creation Aspects/Procedural Content Generation.md",
     "Story Creation Aspects/Physically Based Rendering with Adobe's Substance Designer.md",
     "Story Creation Aspects/Motion Capture.md",
     "Story Creation Aspects/Generative AI Dialogue.md",
-    "Using Technology To Enhance Story.md",
+    "Sound/Music.md",
+    "Sound/Immersion.md",
+    "Sound/Using Technology to Enhance Sound.md",
     "Sound",
-    "Using Technology to Enhance Visuals.md",
     "Story Creation Aspects",
     "Untitled.canvas",
     "2023-10-25.md"
