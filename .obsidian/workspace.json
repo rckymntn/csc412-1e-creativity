@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sound/Using Technology to Enhance Sound.md",
+                "file": "Sound/Immersion.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,6 +38,18 @@
               "type": "markdown",
               "state": {
                 "file": "Sound/Omnidirectional.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3e25ab8718a774e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sound/Music.md",
                 "mode": "source",
                 "source": false
               }
@@ -76,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -142,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sound/Omnidirectional.md",
+                "file": "Sound/Music.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sound/Omnidirectional.md",
+                "file": "Sound/Music.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sound/Omnidirectional.md"
+                "file": "Sound/Music.md"
               }
             }
           }
@@ -203,13 +215,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "02f3215965451062",
+  "active": "19be7de935542803",
   "lastOpenFiles": [
+    "Sound/Omnidirectional.md",
+    "Sound/Music.md",
     "Sound/Immersion.md",
     "Sound/Using Technology to Enhance Sound.md",
-    "Sound/Omnidirectional.md",
-    "0 - How Technology Enhances Creativity in the Video Game Creation Process.md",
     "Sound/Accessibility.md",
+    "0 - How Technology Enhances Creativity in the Video Game Creation Process.md",
     "Story Creation Aspects/Procedural Content Generation.md",
     "Story Creation Aspects/Physically Based Rendering with Adobe's Substance Designer.md",
     "Story Creation Aspects/Motion Capture.md",
