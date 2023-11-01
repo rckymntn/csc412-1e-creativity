@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Using Technology to Enhance Visuals.md",
+                "file": "Technology and Creativity to Enhance Video Game Visuals.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "2cbd9cec9691a8e6",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Using Technology to Enhance Visuals.md",
+                "file": "Technology and Creativity to Enhance Video Game Visuals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Using Technology to Enhance Visuals.md",
+                "file": "Technology and Creativity to Enhance Video Game Visuals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Using Technology to Enhance Visuals.md"
+                "file": "Technology and Creativity to Enhance Video Game Visuals.md"
               }
             }
           }
@@ -146,10 +147,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "388f07b5d670265f",
+  "active": "19be7de935542803",
   "lastOpenFiles": [
     "Using Technology To Enhance Story.md",
-    "Using Technology to Enhance Visuals.md",
+    "Technology and Creativity to Enhance Video Game Visuals.md",
     "Sound/Using Technology to Enhance Sound.md",
     "How Technology Enhances Creativity in the Video Game Creation Process.md",
     "0 - How Technology Enhances Creativity in the Video Game Creation Process.md",
