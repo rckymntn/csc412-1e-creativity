@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sound/Accessibility.md",
+                "file": "Using Technology to Enhance Visuals.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sound/Accessibility.md",
+                "file": "Using Technology to Enhance Visuals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sound/Accessibility.md",
+                "file": "Using Technology to Enhance Visuals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sound/Accessibility.md"
+                "file": "Using Technology to Enhance Visuals.md"
               }
             }
           }
@@ -148,20 +148,22 @@
   },
   "active": "388f07b5d670265f",
   "lastOpenFiles": [
-    "Sound/Immersion.md",
-    "Sound/Music.md",
-    "Sound/Omnidirectional.md",
+    "Using Technology To Enhance Story.md",
+    "Using Technology to Enhance Visuals.md",
     "Sound/Using Technology to Enhance Sound.md",
     "How Technology Enhances Creativity in the Video Game Creation Process.md",
-    "Using Technology to Enhance Visuals.md",
-    "Using Technology To Enhance Story.md",
-    "Sound/Accessibility.md",
+    "0 - How Technology Enhances Creativity in the Video Game Creation Process.md",
     "Story Creation Aspects/Procedural Content Generation.md",
     "Story Creation Aspects/Physically Based Rendering with Adobe's Substance Designer.md",
     "Story Creation Aspects/Motion Capture.md",
     "Story Creation Aspects/Generative AI Dialogue.md",
-    "Sound",
     "Story Creation Aspects",
+    "Sound/Omnidirectional.md",
+    "Sound/Music.md",
+    "Sound/Immersion.md",
+    "Sound/Accessibility.md",
+    "Sound",
+    "Using Technology to Enhance Sound.md",
     "Untitled.canvas",
     "2023-10-25.md"
   ]
