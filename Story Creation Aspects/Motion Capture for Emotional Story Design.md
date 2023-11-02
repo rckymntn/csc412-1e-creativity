@@ -5,3 +5,9 @@ Motion Capture allows for writers to create stories based on realism and subtlet
 Autodesk Maya
 
 https://youtu.be/2GoDlM1Z7BU?si=YZWB4QbufoXNCfB7
+
+https://di4d.com/di4dhmc/
+
+Description of the systems - Autodesk Maya & the DI4D HMC
+
+Key Concepts - 
