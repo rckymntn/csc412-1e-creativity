@@ -15,6 +15,8 @@ Creativity is a necessary and fundamental characteristic in video game developme
 
 ## How is technology used in the process -> leads into the sub pages?
 
+## [[Works Cited]]
+
 --- 
 ## Possible sub pages?
 
