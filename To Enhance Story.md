@@ -9,22 +9,22 @@ Some ideas regarding procedural generation:
 
 
 - Technological Change at the Heart of the Creative Process: Insights From the Videogame Industry
-- [[Procedural Content Generation]]
+- [[Emergent Narratives with Procedural Content Generation]]
 		- [https://aaltodoc.aalto.fi/handle/123456789/101772](https://aaltodoc.aalto.fi/handle/123456789/101772)
 		-  [https://www.tandfonline.com/doi/abs/10.1080/20539320.2022.2150464](https://www.tandfonline.com/doi/abs/10.1080/20539320.2022.2150464)
 		-  Generative Character Conversations for Background Believability and Storytelling - https://www.researchgate.net/publication/304628191_Generative_Character_Conversations_for_Background_Believability_and_Storytelling/link/5775809208ae1b18a7dfe0e3/download
 
-- [[Physically Based Rendering with Adobe's Substance Designer]]
+- [[Environmental Story Design with Adobe's Substance Designer]]
 	- Fallout/Skyrim as examples
 	- [https://aaltodoc.aalto.fi/handle/123456789/101772](https://aaltodoc.aalto.fi/handle/123456789/101772)
 	-
 
-- [[Motion Capture]]
+- [[Motion Capture for Emotional Story Design]]
 	- The Last of Us as an example
 	- Allows better emotional expression from characters which allows writers to write stronger emotional narratives.
 	- The Kinesthetic Index: Video Games and the Body of Motion Capture
 
-- [[Generative AI Dialogue]]
+- [[Creating Interactive Stories with Generative AI Dialogue]]
 	- Mods for Skyrim/Fallout as examples
 	- Generative Character Conversations for Background Believability and Storytelling
 	- [https://dl.acm.org/doi/abs/10.1145/3402942.3402993](https://dl.acm.org/doi/abs/10.1145/3402942.3402993)
