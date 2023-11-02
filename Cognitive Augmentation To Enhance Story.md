@@ -24,7 +24,3 @@ Some ideas regarding procedural generation:
 	- Allows better emotional expression from characters which allows writers to write stronger emotional narratives.
 	- The Kinesthetic Index: Video Games and the Body of Motion Capture
 
-- [[Creating Interactive Stories with Generative AI Dialogue]]
-	- Mods for Skyrim/Fallout as examples
-	- Generative Character Conversations for Background Believability and Storytelling
-	- [https://dl.acm.org/doi/abs/10.1145/3402942.3402993](https://dl.acm.org/doi/abs/10.1145/3402942.3402993)
