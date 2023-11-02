@@ -22,12 +22,12 @@
             }
           },
           {
-            "id": "3397f7ba28d03c7b",
+            "id": "7c89ae5ffa9cd60e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sound/Technology, Sound, and Cognitive Augmentation.md",
+                "file": "Story Creation Aspects/Motion Capture for Emotional Story Design.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,12 +100,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sound/Technology, Sound, and Cognitive Augmentation.md",
-                "collapseAll": true,
+                "file": "Story Creation Aspects/Motion Capture for Emotional Story Design.md",
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": true,
-                "searchQuery": "g",
+                "showSearch": false,
+                "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sound/Technology, Sound, and Cognitive Augmentation.md",
+                "file": "Story Creation Aspects/Motion Capture for Emotional Story Design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sound/Technology, Sound, and Cognitive Augmentation.md"
+                "file": "Story Creation Aspects/Motion Capture for Emotional Story Design.md"
               }
             }
           }
@@ -148,7 +148,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,33 +160,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3397f7ba28d03c7b",
+  "active": "7c89ae5ffa9cd60e",
   "lastOpenFiles": [
     "Sound/Omnidirectional.md",
-    "Sound/Music.md",
     "Sound/Effects.md",
-    "Sound/Accessibility.md",
-    "How Technology Enhances Creativity in the Video Game Creation Process.md",
-    "Works Cited (All Pages).md",
-    "Cognitive Augmentation, Creativity and Enhancing Video Game Visuals.md",
+    "Sound/Technology, Sound, and Cognitive Augmentation.md",
     "Cognitive Augmentation To Enhance Story.md",
+    "How Technology Enhances Creativity in the Video Game Creation Process.md",
+    "Cognitive Augmentation, Creativity and Enhancing Video Game Visuals.md",
     "Story Creation Aspects/Motion Capture for Emotional Story Design.md",
     "Story Creation Aspects/Environmental Story Design with Adobe's Substance Designer.md",
     "Story Creation Aspects/Emergent Narratives with Procedural Content Generation.md",
-    "Sound/Technology, Sound, and Cognitive Augmentation.md",
-    "To Enhance Story.md",
-    "Story Creation Aspects/Motion Capture.md",
-    "Story Creation Aspects/Generative AI Dialogue.md",
-    "Story Creation Aspects/Procedural Content Generation.md",
-    "Story Creation Aspects/Physically Based Rendering with Adobe's Substance Designer.md",
-    "Untitled.canvas",
+    "Sound/Music.md",
+    "Works Cited (All Pages).md",
+    "Works Cited.md",
     "conflict-files-obsidian-git.md",
+    "Using Technology To Enhance Story.md",
+    "Story Creation Aspects/Creating Interactive Stories with Generative AI Dialogue.md",
+    "Sound/Accessibility.md",
+    "Story Creation Aspects/Generative AI Dialogue.md",
+    "Story Creation Aspects/Motion Capture.md",
+    "Story Creation Aspects/Physically Based Rendering with Adobe's Substance Designer.md",
+    "Story Creation Aspects/Procedural Content Generation.md",
     "Sound/Using Technology to Enhance Sound.md",
     "0 - How Technology Enhances Creativity in the Video Game Creation Process.md",
     "Story Creation Aspects",
     "Sound/Immersion.md",
     "Sound",
     "Using Technology to Enhance Sound.md",
+    "Untitled.canvas",
     "2023-10-25.md"
   ]
 }
