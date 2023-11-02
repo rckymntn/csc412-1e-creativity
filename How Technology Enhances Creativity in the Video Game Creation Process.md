@@ -15,7 +15,11 @@ ___
 
 Video games exist at the intersection of technology and creativity, art and science, interactivity, interconnectivity and the quest to conquer worlds other than our own. New World Encyclopedia defines a video game as "...a **game** that involves the interaction with a user interface to generate visual feedback on a video device..." [1]. By their very nature, it is impossible to separate video games from the technology that is used to create them, distribute them, and the platforms that allow us to play them.
 
-This vault explores Creativity is a necessary and fundamental characteristic in video game development. At th
+This vault explores the video game creation process in particular and examines how cognitive augmentation is used to enhance creativity across the several 
+
+
+
+Creativity is a necessary and fundamental characteristic in video game development. At th
 
 
 
