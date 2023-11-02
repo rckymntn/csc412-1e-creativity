@@ -98,7 +98,11 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
+<<<<<<< HEAD
                 "showSearch": false,
+=======
+                "showSearch": true,
+>>>>>>> ac74956245c73c9d20ffc55aabc25333d9384baa
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
@@ -156,6 +160,7 @@
   },
   "active": "b71690f1573bb55e",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "conflict-files-obsidian-git.md",
     "How Technology Enhances Creativity in the Video Game Creation Process.md",
     "Cognitive Augmentation, Creativity and Enhancing Video Game Visuals.md",
@@ -164,6 +169,10 @@
     "Story Creation Aspects/Procedural Content Generation.md",
     "Story Creation Aspects/Physically-Based Rendering.md",
     "Works Cited (All Pages).md",
+=======
+    "Cognitive Augmentation, Creativity and Enhancing Video Game Visuals.md",
+    "Cognitive Augmentation To Enhance Story.md",
+>>>>>>> ac74956245c73c9d20ffc55aabc25333d9384baa
     "Sound/Technology, Sound, and Cognitive Augmentation.md",
     "Sound/Omnidirectional.md",
     "Sound/Effects.md",
@@ -172,6 +181,16 @@
     "Using Technology To Enhance Story.md",
     "Story Creation Aspects/Creating Interactive Stories with Generative AI Dialogue.md",
     "Sound/Accessibility.md",
+<<<<<<< HEAD
+=======
+    "Story Creation Aspects/Emergent Narratives with Procedural Content Generation.md",
+    "Story Creation Aspects/Environmental Story Design with Adobe's Substance Designer.md",
+    "Story Creation Aspects/Motion Capture for Emotional Story Design.md",
+    "How Technology Enhances Creativity in the Video Game Creation Process.md",
+    "Works Cited (All Pages).md",
+    "To Enhance Story.md",
+    "Story Creation Aspects/Motion Capture.md",
+>>>>>>> ac74956245c73c9d20ffc55aabc25333d9384baa
     "Story Creation Aspects/Generative AI Dialogue.md",
     "Story Creation Aspects/Physically Based Rendering with Adobe's Substance Designer.md",
     "Sound/Using Technology to Enhance Sound.md",
