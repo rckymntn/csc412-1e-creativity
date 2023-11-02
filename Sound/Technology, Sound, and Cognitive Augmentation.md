@@ -2,7 +2,7 @@ Technology is fundamentally intertwined with digital sound. The requisite proces
 
 Some such examples would be:
 - [[Accessibility]]
-- [[Immersion]]
+- [[Effects]]
 - [[Omnidirectional]]
 - [[Music]]
 
