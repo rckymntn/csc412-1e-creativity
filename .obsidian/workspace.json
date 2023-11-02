@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sound and Cognitive Augmentation.md",
+                "file": "Sound/Music.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sound and Cognitive Augmentation.md",
+                "file": "Sound/Music.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sound and Cognitive Augmentation.md",
+                "file": "Sound/Music.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sound and Cognitive Augmentation.md"
+                "file": "Sound/Music.md"
               }
             }
           }
@@ -148,6 +148,11 @@
   },
   "active": "680bb78ae841f187",
   "lastOpenFiles": [
+    "Sound/Effects.md",
+    "Sound/Accessibility.md",
+    "Sound/Music.md",
+    "Sound/Omnidirectional.md",
+    "Sound and Cognitive Augmentation.md",
     "Cognitive Augmentation, Creativity and Enhancing Video Game Visuals.md",
     "Cognitive Augmentation To Enhance Story Design.md",
     "Story Creation Aspects/Procedural Content Generation.md",
@@ -155,11 +160,6 @@
     "Story Creation Aspects/Motion Capture.md",
     "Home (Start Here)/Works Cited (All Pages).md",
     "Home (Start Here)/How Technology Enhances Creativity in the Video Game Creation Process.md",
-    "Sound/Music.md",
-    "Sound/Omnidirectional.md",
-    "Sound/Accessibility.md",
-    "Sound/Effects.md",
-    "Sound and Cognitive Augmentation.md",
     "Home (Start Here)/Vault Image Archive/Video Game Consoles.png",
     "Home (Start Here)/Vault Image Archive",
     "Home (Start Here)",
