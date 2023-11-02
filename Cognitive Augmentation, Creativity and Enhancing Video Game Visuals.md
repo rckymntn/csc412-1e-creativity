@@ -35,3 +35,13 @@ ___
 Game Showcase
 Visual Evolution Over Time
 
+## Tags
+_____
+
+## References (Current Page)
+____
+[1] 
+
+## Other relevant pages:
+_____
+- [[Works Cited (All Pages)]] 
