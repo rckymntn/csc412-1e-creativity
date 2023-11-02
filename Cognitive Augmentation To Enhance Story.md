@@ -1,5 +1,5 @@
 ___
-[[How Technology Enhances Creativity in the Video Game Creation Process|Back to Home Page]]
+[[How Technology Enhances Creativity in the Video Game Creation Process|←Back to Home Page]]
 ____
 
 Some ideas regarding procedural generation: 
