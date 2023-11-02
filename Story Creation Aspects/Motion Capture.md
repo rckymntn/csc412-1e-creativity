@@ -1,7 +1,7 @@
  =======
 _____
-[[How Technology Enhances Creativity in the Video Game Creation Process|Back to Main Page]]
-[[Cognitive Augmentation To Enhance Story Design|Back to Cognitive Augmentation To Enhance Story]]
+[[How Technology Enhances Creativity in the Video Game Creation Process|←Back to Home Page]]
+[[Cognitive Augmentation To Enhance Story Design|←Back to Cognitive Augmentation To Enhance Story]]
 ____
 
 # What is Motion Capture?
@@ -19,3 +19,14 @@ https://di4d.com/di4dhmc/
 Description of the systems - Autodesk Maya & the DI4D HMC
 
 Key Concepts - 
+
+## Tags
+_____
+
+## References (Current Page)
+____
+[1] 
+
+## Other relevant pages:
+_____
+- [[Works Cited (All Pages)]] 
