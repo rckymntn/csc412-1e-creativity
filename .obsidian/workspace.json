@@ -32,8 +32,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7c89ae5ffa9cd60e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "How Technology Enhances Creativity in the Video Game Creation Process.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -159,22 +172,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "19be7de935542803",
+  "active": "7c89ae5ffa9cd60e",
   "lastOpenFiles": [
-    "How Technology Enhances Creativity in the Video Game Creation Process.md",
-    "conflict-files-obsidian-git.md",
     "Cognitive Augmentation, Creativity and Enhancing Video Game Visuals.md",
+    "Story Creation Aspects/Motion Capture for Emotional Story Design.md",
+    "Story Creation Aspects/Emergent Narratives with Procedural Content Generation.md",
+    "Story Creation Aspects/Creating Interactive Stories with Generative AI Dialogue.md",
     "Sound/Accessibility.md",
     "Sound/Effects.md",
     "Sound/Music.md",
-    "Sound/Technology, Sound, and Cognitive Augmentation.md",
     "Sound/Omnidirectional.md",
+    "Sound/Technology, Sound, and Cognitive Augmentation.md",
+    "Story Creation Aspects/Environmental Story Design with Adobe's Substance Designer.md",
+    "How Technology Enhances Creativity in the Video Game Creation Process.md",
+    "Using Technology To Enhance Story.md",
+    "Works Cited.md",
+    "conflict-files-obsidian-git.md",
     "Story Creation Aspects/Generative AI Dialogue.md",
     "Story Creation Aspects/Motion Capture.md",
     "Story Creation Aspects/Physically Based Rendering with Adobe's Substance Designer.md",
     "Story Creation Aspects/Procedural Content Generation.md",
-    "Works Cited.md",
-    "Using Technology To Enhance Story.md",
     "Sound/Using Technology to Enhance Sound.md",
     "0 - How Technology Enhances Creativity in the Video Game Creation Process.md",
     "Story Creation Aspects",
