@@ -1,14 +1,6 @@
 ## Table of Contents
 ____
-#### This Page
-
-Introduction
-Overview of the Video Game Creation Process
-Definitions
-Tags
-References
-Other relevant pages
-#### Linked Pages
+#### Linked Sub-Sections
 
 [[Cognitive Augmentation To Enhance Story Design]]
 [[Sound and Cognitive Augmentation]]
@@ -17,6 +9,15 @@ Other relevant pages
 	[[Music]]
 	[[Omnidirectional]]
 [[Cognitive Augmentation, Creativity and Enhancing Video Game Visuals]]
+
+#### This Page
+
+[[#Introduction]]
+[[#Overview of the Video Game Creation Process]]
+[[#Key Terms and Definitions]]
+[[#Tags]]
+[[#References (Current Page)]]
+[[#Other Relevant Pages]]
 
 ____
 ## Introduction
@@ -32,6 +33,8 @@ ___
 
 ## Key Terms and Definitions
 --- 
+This section provides definitions for key terms that will be used throughout this vault.
+
 
 
 ## Tags
