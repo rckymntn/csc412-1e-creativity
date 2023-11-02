@@ -5,7 +5,7 @@
 	[[Effects]]
 	[[Music]]
 	[[Omnidirectional]]
-[[Using Technology to Enhance Visuals]]
+[[Technology and Creativity to Enhance Video Game Visuals]]
 ## Introduction 
 Creativity is a necessary and fundamental characteristic in video game development. Advances in technology can further augment designers' creative process or allow for creative expression. Some key ways in which technology can enhance creativity in video games are in story, sound, and visuals. In story they can blah blah blah. In sound they can blah blah blah. In visuals they can blah blah blah. 
 
