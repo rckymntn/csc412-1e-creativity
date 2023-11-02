@@ -4,7 +4,7 @@ ___
 ____
 ## Adaptive Music 
 
-Traditionally, music for video game is separated into discrete tracks that play during predefined conditions. There would be no meshing between songs (except for a crossfade, perhaps) and variations of tracks would still be their own discrete tracks. With adaptive music, however, the music can add or subtract elements on-the-fly in response to the current state of the game. The same track could play completely differently in regards to instruments, tempo, etc. given different game states. Axel Berndt aptly describes adaptive music as "establish\[ing] a form of live-generated musical collage that reflects the events in the interactive scene."
+Traditionally, music for video game is separated into discrete tracks that play during predefined conditions. There would be no meshing between songs (except for a crossfade, perhaps) and variations of tracks would still be their own discrete tracks. With adaptive music, however, the music can add or subtract elements on-the-fly in response to the current state of the game. The same track could play completely differently in regards to instruments, tempo, etc. given different game states. Axel Berndt aptly describes adaptive music as "establish\[ing] a form of live-generated musical collage that reflects the events in the interactive scene." (Adaptive game scoring with ambient music, 2019)
 
 Adaptive music, where the music is reactive to the state of the game, could be used for cognitive augmentation by providing subtle feedback to the user by responding to their actions or events in the game. 
 
@@ -24,7 +24,11 @@ _____
 
 ## References (Current Page)
 ____
-[1] 
+\[1] A. Berndt, “Adaptive game scoring with ambient music,” _Music Beyond Airports - appraising ambient music_, pp. 197–226, 2019. doi:10.5920/beyondairports.09
+
+\[2] _Adaptive Music (In Gaming) Is Amazing_. 2019.
+
+\[3] _Composer Marty O’Donnell - Working in Video Game Music_. 2012.
 
 ## Other relevant pages:
 _____

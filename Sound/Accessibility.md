@@ -14,7 +14,7 @@ _____
 
 ## References (Current Page)
 ____
-[1] 
+[1] Dowino, “A Blind Legend.” Plug In Digital, 2016
 
 ## Other relevant pages:
 _____
