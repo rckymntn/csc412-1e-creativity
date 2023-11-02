@@ -1,54 +1,35 @@
 {
   "main": {
-    "id": "2e5ed923744060f2",
+    "id": "0043589c8e46e123",
     "type": "split",
     "children": [
       {
-        "id": "9d6340d9065d4dd2",
+        "id": "fd3f0033f09ddca2",
         "type": "tabs",
         "children": [
           {
-            "id": "388f07b5d670265f",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "How Technology Enhances Creativity in the Video Game Creation Process.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "3397f7ba28d03c7b",
+            "id": "6b699ca321402e29",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "How Technology Enhances Creativity in the Video Game Creation Process.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "c99cf6c73def7d0e",
+    "id": "6e2e6279565d16a1",
     "type": "split",
     "children": [
       {
-        "id": "a7f47e5e1a0e73e2",
+        "id": "3746b64abe97c850",
         "type": "tabs",
         "children": [
           {
-            "id": "19be7de935542803",
+            "id": "f5a1355224d782f8",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -58,12 +39,12 @@
             }
           },
           {
-            "id": "04c1878313d9eb9f",
+            "id": "d7bd063ad532bbe7",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#sound",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +54,7 @@
             }
           },
           {
-            "id": "88b09b5ff3fa22b2",
+            "id": "2548d8d6da0895bc",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -87,24 +68,23 @@
     "width": 300
   },
   "right": {
-    "id": "2cbd9cec9691a8e6",
+    "id": "7b3ccfd282108a65",
     "type": "split",
     "children": [
       {
-        "id": "7f39b1d02108501a",
+        "id": "6a428dd552a669bd",
         "type": "tabs",
         "children": [
           {
-            "id": "298134037b80ba1a",
+            "id": "f56e0cb6cd269272",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "How Technology Enhances Creativity in the Video Game Creation Process.md",
-                "collapseAll": true,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": true,
+                "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
@@ -112,19 +92,18 @@
             }
           },
           {
-            "id": "83d63b239761e132",
+            "id": "35144d6f41148912",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "How Technology Enhances Creativity in the Video Game Creation Process.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "eab9cd6d9018cafc",
+            "id": "0b2b0f3283c06a9c",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -135,20 +114,19 @@
             }
           },
           {
-            "id": "57748b410655ec8d",
+            "id": "e609256d34c961bd",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "How Technology Enhances Creativity in the Video Game Creation Process.md"
-              }
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,33 +137,6 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3397f7ba28d03c7b",
-  "lastOpenFiles": [
-    "Cognitive Augmentation, Creativity and Enhancing Video Game Visuals.md",
-    "Cognitive Augmentation To Enhance Story.md",
-    "Sound/Technology, Sound, and Cognitive Augmentation.md",
-    "Sound/Omnidirectional.md",
-    "Sound/Music.md",
-    "Sound/Effects.md",
-    "Sound/Accessibility.md",
-    "Story Creation Aspects/Emergent Narratives with Procedural Content Generation.md",
-    "Story Creation Aspects/Environmental Story Design with Adobe's Substance Designer.md",
-    "Story Creation Aspects/Motion Capture for Emotional Story Design.md",
-    "How Technology Enhances Creativity in the Video Game Creation Process.md",
-    "Works Cited (All Pages).md",
-    "To Enhance Story.md",
-    "Story Creation Aspects/Motion Capture.md",
-    "Story Creation Aspects/Generative AI Dialogue.md",
-    "Story Creation Aspects/Procedural Content Generation.md",
-    "Story Creation Aspects/Physically Based Rendering with Adobe's Substance Designer.md",
-    "Untitled.canvas",
-    "conflict-files-obsidian-git.md",
-    "Sound/Using Technology to Enhance Sound.md",
-    "0 - How Technology Enhances Creativity in the Video Game Creation Process.md",
-    "Story Creation Aspects",
-    "Sound/Immersion.md",
-    "Sound",
-    "Using Technology to Enhance Sound.md",
-    "2023-10-25.md"
-  ]
+  "active": "6b699ca321402e29",
+  "lastOpenFiles": []
 }

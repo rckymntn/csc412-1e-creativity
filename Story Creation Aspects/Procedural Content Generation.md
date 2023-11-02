@@ -1,6 +1,6 @@
 ___
 [[How Technology Enhances Creativity in the Video Game Creation Process|Back to Main Page]]
-[[Cognitive Augmentation To Enhance Story |Back to Cognitive Augmentation To Enhance Story]]
+[[Cognitive Augmentation To Enhance Story Design|Back to Cognitive Augmentation To Enhance Story]]
 ____
 Simpler Example: Settler's of Catan
 
