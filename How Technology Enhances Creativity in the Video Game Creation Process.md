@@ -1,8 +1,8 @@
 ## Table of Contents
 [[Using Technology To Enhance Story]]
-[[Using Technology to Enhance Sound]]
+[[Technology, Sound, and Cognitive Augmentation]]
 	[[Accessibility]]
-	[[Immersion]]
+	[[Effects]]
 	[[Music]]
 	[[Omnidirectional]]
 [[Using Technology to Enhance Visuals]]
