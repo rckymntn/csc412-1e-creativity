@@ -10,7 +10,6 @@ ____
 ____
 ### [[Motion Capture]]
 A key aspect of storytelling is being able to show emotion in your characters. Without it, stories become limited and two dimensional. [[Motion Capture]] technology allows the game's creator to be as creative as they want with their characters movements and expressions without being limited by their ability to code. Consequently, creative problems that require subtlety and realism become no problem for the augmented ability of the game's creator.
-
 ### [[Physically-Based Rendering]]
 
 ### [[Procedural Content Generation]]

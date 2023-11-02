@@ -12,10 +12,4 @@ Motion capture technology is the pipeline of technologies that allow for a video
 
 Autodesk Maya
 
-https://youtu.be/2GoDlM1Z7BU?si=YZWB4QbufoXNCfB7
-
 https://di4d.com/di4dhmc/
-
-Description of the systems - Autodesk Maya & the DI4D HMC
-
-Key Concepts - 
