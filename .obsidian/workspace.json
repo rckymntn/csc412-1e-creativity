@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sound/Accessibility.md",
+                "file": "Home (Start Here)/Works Cited (All Pages).md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sound/Accessibility.md",
+                "file": "Home (Start Here)/Works Cited (All Pages).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sound/Accessibility.md",
+                "file": "Home (Start Here)/Works Cited (All Pages).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sound/Accessibility.md"
+                "file": "Home (Start Here)/Works Cited (All Pages).md"
               }
             }
           }
@@ -159,15 +159,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "266ddb46b2069713",
+  "active": "19be7de935542803",
   "lastOpenFiles": [
-    "Home (Start Here)/Works Cited (All Pages).md",
-    "Home (Start Here)/Vault Image Archive/Video Game Consoles.png",
     "Home (Start Here)/How Technology Enhances Creativity in the Video Game Creation Process.md",
+    "Home (Start Here)/Vault Image Archive/Video Game Consoles.png",
+    "Sound/Accessibility.md",
+    "Home (Start Here)/Works Cited (All Pages).md",
     "Home (Start Here)/Vault Image Archive",
     "Home (Start Here)",
     "conflict-files-obsidian-git.md",
-    "Sound/Accessibility.md",
     "Works Cited (All Pages).md",
     "How Technology Enhances Creativity in the Video Game Creation Process.md",
     "Cognitive Augmentation, Creativity and Enhancing Video Game Visuals.md",
