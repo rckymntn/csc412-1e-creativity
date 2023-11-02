@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sound/Accessibility.md",
+                "file": "Sound/Music.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sound/Accessibility.md",
+                "file": "Sound/Music.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sound/Accessibility.md",
+                "file": "Sound/Music.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sound/Accessibility.md"
+                "file": "Sound/Music.md"
               }
             }
           }
@@ -148,18 +148,20 @@
   },
   "active": "388f07b5d670265f",
   "lastOpenFiles": [
-    "Sound/Immersion.md",
-    "Sound/Music.md",
-    "Sound/Omnidirectional.md",
     "Sound/Using Technology to Enhance Sound.md",
+    "Sound/Immersion.md",
+    "Sound/Technology, Sound, and Cognitive Augmentation.md",
+    "Sound/Omnidirectional.md",
+    "Sound/Music.md",
+    "Sound/Effects.md",
+    "Sound/Accessibility.md",
     "How Technology Enhances Creativity in the Video Game Creation Process.md",
     "Using Technology to Enhance Visuals.md",
     "Using Technology To Enhance Story.md",
-    "Sound/Accessibility.md",
-    "Story Creation Aspects/Procedural Content Generation.md",
-    "Story Creation Aspects/Physically Based Rendering with Adobe's Substance Designer.md",
-    "Story Creation Aspects/Motion Capture.md",
     "Story Creation Aspects/Generative AI Dialogue.md",
+    "Story Creation Aspects/Motion Capture.md",
+    "Story Creation Aspects/Physically Based Rendering with Adobe's Substance Designer.md",
+    "Story Creation Aspects/Procedural Content Generation.md",
     "Sound",
     "Story Creation Aspects",
     "Untitled.canvas",
