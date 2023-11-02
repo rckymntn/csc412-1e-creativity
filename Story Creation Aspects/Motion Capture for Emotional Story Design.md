@@ -1,7 +1,6 @@
 <<<<<<< HEAD
-# What is Motion Capture?
-
-Motion capture technology is the pipeline of technologies that allow for a videogame to use the real movements of an actor for the character animations in the video game. There are two types of motion capture needed for video game animations: Body movement and facial movement. For capturing body movement, the actors move in the center of 4 cameras while wearing a 
+# What is Motion Capture
+ 
 =======
 _____
 [[How Technology Enhances Creativity in the Video Game Creation Process|Back to Main Page]]

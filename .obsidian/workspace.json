@@ -112,6 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Story Creation Aspects/Motion Capture for Emotional Story Design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,6 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Story Creation Aspects/Motion Capture for Emotional Story Design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Story Creation Aspects/Motion Capture for Emotional Story Design.md"
               }
             }
           }
@@ -170,15 +172,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "19be7de935542803",
+  "active": "7c89ae5ffa9cd60e",
   "lastOpenFiles": [
-    "Story Creation Aspects/Motion Capture for Emotional Story Design.md",
-    "conflict-files-obsidian-git.md",
-    "Cognitive Augmentation To Enhance Story.md",
     "Story Creation Aspects/Emergent Narratives with Procedural Content Generation.md",
     "Story Creation Aspects/Environmental Story Design with Adobe's Substance Designer.md",
-    "Cognitive Augmentation, Creativity and Enhancing Video Game Visuals.md",
+    "Story Creation Aspects/Motion Capture for Emotional Story Design.md",
     "How Technology Enhances Creativity in the Video Game Creation Process.md",
+    "Works Cited.md",
+    "conflict-files-obsidian-git.md",
+    "Cognitive Augmentation To Enhance Story.md",
+    "Cognitive Augmentation, Creativity and Enhancing Video Game Visuals.md",
     "Using Technology To Enhance Story.md",
     "Sound/Technology, Sound, and Cognitive Augmentation.md",
     "Story Creation Aspects/Creating Interactive Stories with Generative AI Dialogue.md",
@@ -186,7 +189,6 @@
     "Sound/Effects.md",
     "Sound/Music.md",
     "Sound/Omnidirectional.md",
-    "Works Cited.md",
     "Story Creation Aspects/Generative AI Dialogue.md",
     "Story Creation Aspects/Motion Capture.md",
     "Story Creation Aspects/Physically Based Rendering with Adobe's Substance Designer.md",
