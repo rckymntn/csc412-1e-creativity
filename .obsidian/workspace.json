@@ -1,0 +1,185 @@
+{
+  "main": {
+    "id": "2e5ed923744060f2",
+    "type": "split",
+    "children": [
+      {
+        "id": "9d6340d9065d4dd2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "388f07b5d670265f",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "How Technology Enhances Creativity in the Video Game Creation Process.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "3397f7ba28d03c7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Works Cited.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c99cf6c73def7d0e",
+    "type": "split",
+    "children": [
+      {
+        "id": "a7f47e5e1a0e73e2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "19be7de935542803",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "04c1878313d9eb9f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#sound",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "88b09b5ff3fa22b2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2cbd9cec9691a8e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "7f39b1d02108501a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "298134037b80ba1a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "83d63b239761e132",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "eab9cd6d9018cafc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "57748b410655ec8d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "conflict-files-obsidian-git.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "19be7de935542803",
+  "lastOpenFiles": [
+    "How Technology Enhances Creativity in the Video Game Creation Process.md",
+    "conflict-files-obsidian-git.md",
+    "Cognitive Augmentation, Creativity and Enhancing Video Game Visuals.md",
+    "Sound/Accessibility.md",
+    "Sound/Effects.md",
+    "Sound/Music.md",
+    "Sound/Technology, Sound, and Cognitive Augmentation.md",
+    "Sound/Omnidirectional.md",
+    "Story Creation Aspects/Generative AI Dialogue.md",
+    "Story Creation Aspects/Motion Capture.md",
+    "Story Creation Aspects/Physically Based Rendering with Adobe's Substance Designer.md",
+    "Story Creation Aspects/Procedural Content Generation.md",
+    "Works Cited.md",
+    "Using Technology To Enhance Story.md",
+    "Sound/Using Technology to Enhance Sound.md",
+    "0 - How Technology Enhances Creativity in the Video Game Creation Process.md",
+    "Story Creation Aspects",
+    "Sound/Immersion.md",
+    "Sound",
+    "Using Technology to Enhance Sound.md",
+    "Untitled.canvas",
+    "2023-10-25.md"
+  ]
+}
