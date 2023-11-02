@@ -2,9 +2,9 @@
 ____
 
 [[Using Technology To Enhance Story]]
-[[Using Technology to Enhance Sound]]
+[[Technology, Sound, and Cognitive Augmentation]]
 	[[Accessibility]]
-	[[Immersion]]
+	[[Effects]]
 	[[Music]]
 	[[Omnidirectional]]
 [[Cognitive Augmentation, Creativity and Enhancing Video Game Visuals]]
@@ -23,6 +23,8 @@ Creativity is a necessary and fundamental characteristic in video game developme
 ## What is creativity?
 ___
 
+
+## [[Works Cited]]
 
 --- 
 
