@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "786fe1cd388824bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sound/Accessibility.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sound/Accessibility.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sound/Accessibility.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -157,8 +169,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3397f7ba28d03c7b",
+  "active": "786fe1cd388824bc",
   "lastOpenFiles": [
+    "Sound/Accessibility.md",
+    "conflict-files-obsidian-git.md",
+    "Sound and Cognitive Augmentation.md",
     "Sound/Effects.md",
     "Sound/Music.md",
     "Sound/Omnidirectional.md",
@@ -170,7 +185,6 @@
     "Cognitive Augmentation, Creativity and Enhancing Video Game Visuals.md",
     "How Technology Enhances Creativity in the Video Game Creation Process.md",
     "Works Cited (All Pages).md",
-    "Sound/Accessibility.md",
     "Cognitive Augmentation To Enhance Story.md",
     "Story Creation Aspects/Emergent Narratives with Procedural Content Generation.md",
     "Story Creation Aspects/Environmental Story Design with Adobe's Substance Designer.md",
@@ -179,7 +193,6 @@
     "Story Creation Aspects/Generative AI Dialogue.md",
     "Story Creation Aspects/Physically Based Rendering with Adobe's Substance Designer.md",
     "Untitled.canvas",
-    "conflict-files-obsidian-git.md",
     "Sound/Using Technology to Enhance Sound.md",
     "0 - How Technology Enhances Creativity in the Video Game Creation Process.md",
     "Story Creation Aspects",
