@@ -5,7 +5,7 @@ ____
 
 Sound which can be perceived and interpreted as originating from a specific point in space. For example, hearing footsteps run down a hallway one floor up from you.  
 
-This is an example of cognitive augmentation because being able to accurately discern the origin of a sound can give a player a competitive advantage in a game by providing information that is otherwise unobservable. 
+This is an example of cognitive augmentation because being able to accurately discern the origin of a sound can give a player a competitive advantage in a game by providing information that is otherwise unobservable. In other words, this technology allows for players to digest a new type of information to use to their advantage in a game, if they are able to properly understand it. 
 
 Primarily used to increase [[Effects]] in video games, but most often in competitive and horror video games.
 
