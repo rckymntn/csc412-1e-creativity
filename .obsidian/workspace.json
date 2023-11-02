@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "To Enhance Story.md",
+                "file": "Story Creation Aspects/Motion Capture for Emotional Story Design.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "To Enhance Story.md",
+                "file": "Story Creation Aspects/Motion Capture for Emotional Story Design.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "To Enhance Story.md",
+                "file": "Story Creation Aspects/Motion Capture for Emotional Story Design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "To Enhance Story.md"
+                "file": "Story Creation Aspects/Motion Capture for Emotional Story Design.md"
               }
             }
           }
@@ -159,24 +159,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "19be7de935542803",
+  "active": "3397f7ba28d03c7b",
   "lastOpenFiles": [
+    "Cognitive Augmentation To Enhance Story.md",
+    "Cognitive Augmentation, Creativity and Enhancing Video Game Visuals.md",
+    "How Technology Enhances Creativity in the Video Game Creation Process.md",
+    "Works Cited.md",
     "Story Creation Aspects/Motion Capture for Emotional Story Design.md",
     "Story Creation Aspects/Environmental Story Design with Adobe's Substance Designer.md",
-    "Story Creation Aspects/Emergent Narratives with Procedural Content Generation.md",
-    "How Technology Enhances Creativity in the Video Game Creation Process.md",
-    "Cognitive Augmentation, Creativity and Enhancing Video Game Visuals.md",
-    "Story Creation Aspects/Procedural Content Generation.md",
-    "Story Creation Aspects/Physically Based Rendering with Adobe's Substance Designer.md",
+    "To Enhance Story.md",
     "Story Creation Aspects/Motion Capture.md",
     "Story Creation Aspects/Generative AI Dialogue.md",
+    "Story Creation Aspects/Emergent Narratives with Procedural Content Generation.md",
+    "Story Creation Aspects/Procedural Content Generation.md",
+    "Story Creation Aspects/Physically Based Rendering with Adobe's Substance Designer.md",
     "Sound/Technology, Sound, and Cognitive Augmentation.md",
     "Sound/Omnidirectional.md",
     "Sound/Music.md",
     "Sound/Effects.md",
     "Sound/Accessibility.md",
-    "To Enhance Story.md",
-    "Works Cited.md",
     "Untitled.canvas",
     "conflict-files-obsidian-git.md",
     "Sound/Using Technology to Enhance Sound.md",
