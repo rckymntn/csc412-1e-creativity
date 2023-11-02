@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technology and Creativity to Enhance Video Game Visuals.md",
+                "file": "Cognitive Augmentation, Creativity and Enhancing Video Game Visuals.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#sound",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Technology and Creativity to Enhance Video Game Visuals.md",
+                "file": "Cognitive Augmentation, Creativity and Enhancing Video Game Visuals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Technology and Creativity to Enhance Video Game Visuals.md",
+                "file": "Cognitive Augmentation, Creativity and Enhancing Video Game Visuals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Technology and Creativity to Enhance Video Game Visuals.md"
+                "file": "Cognitive Augmentation, Creativity and Enhancing Video Game Visuals.md"
               }
             }
           }
@@ -147,12 +147,12 @@
   },
   "active": "388f07b5d670265f",
   "lastOpenFiles": [
-    "Using Technology To Enhance Story.md",
-    "Technology and Creativity to Enhance Video Game Visuals.md",
-    "Sound/Using Technology to Enhance Sound.md",
-    "How Technology Enhances Creativity in the Video Game Creation Process.md",
-    "0 - How Technology Enhances Creativity in the Video Game Creation Process.md",
     "Story Creation Aspects/Procedural Content Generation.md",
+    "How Technology Enhances Creativity in the Video Game Creation Process.md",
+    "Using Technology To Enhance Story.md",
+    "Cognitive Augmentation, Creativity and Enhancing Video Game Visuals.md",
+    "Sound/Using Technology to Enhance Sound.md",
+    "0 - How Technology Enhances Creativity in the Video Game Creation Process.md",
     "Story Creation Aspects/Physically Based Rendering with Adobe's Substance Designer.md",
     "Story Creation Aspects/Motion Capture.md",
     "Story Creation Aspects/Generative AI Dialogue.md",

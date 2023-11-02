@@ -1,25 +1,36 @@
-## Table of Contents
+## Table of Contents/Linked Pages
+____
+
 [[Using Technology To Enhance Story]]
 [[Using Technology to Enhance Sound]]
 	[[Accessibility]]
 	[[Immersion]]
 	[[Music]]
 	[[Omnidirectional]]
-[[Technology and Creativity to Enhance Video Game Visuals]]
-## Introduction 
+[[Cognitive Augmentation, Creativity and Enhancing Video Game Visuals]]
+
+____
+## Introduction
+___
+
+Video games exist at the intersection of technology and creativity, art and science, interactivity, interconnectivity and the quest to conquer worlds other than our own. By their very nature, it is impossible to separate video games from the technology that is used to create them, distribute them, and the platforms that allow us to play them.
+
+New World Encyclopedia defines a video game as "...a **game** that involves the interaction with a user interface to generate visual feedback on a video device. Video games may have a reward system—such as a score—that is based on accomplishment of tasks set within the game". [1] 
+
+
 Creativity is a necessary and fundamental characteristic in video game development. Advances in technology can further augment designers' creative process or allow for creative expression. Some key ways in which technology can enhance creativity in video games are in story, sound, and visuals. In story they can blah blah blah. In sound they can blah blah blah. In visuals they can blah blah blah. 
 
 ## What is creativity?
+___
 
-## Overview of Video game creation process
-
-## How is technology used in the process -> leads into the sub pages?
 
 --- 
-## Possible sub pages?
-
-## Some Interesting Papers We could use? - Ruvie
-
-Management of Creativity in Video Game Development - https://www.tandfonline.com/doi/abs/10.1300/J396v27n04_05?casa_token=6P3OkUTf80YAAAAA:1gMG53KZ8hrJDEMpqfLqWmtedGkvXWCuGofEyzBPV7QduVKb0FRe6Q6E4FG_g4tJvcPq-FASwScy
 
 
+## Tags
+_____
+#videogame #creativity #videogamesound #videogamestory #videogamevisuals 
+
+## References
+____
+[1] “Video game,” New World Encyclopedia, https://www.newworldencyclopedia.org/entry/Video_game (accessed Nov. 1, 2023).
