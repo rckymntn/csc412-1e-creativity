@@ -2,9 +2,11 @@ ___
 [[How Technology Enhances Creativity in the Video Game Creation Process|←Back to Home Page]]
 [[Sound and Cognitive Augmentation|←Back to Sound and Cognitive Augmentation]]
 ____
-## Reactive Music 
+## Adaptive Music 
 
-Reactive music could be used for cognitive augmentation by providing subtle feedback to the user by responding to their actions or events in the game. 
+Traditionally, music for video game is separated into discrete tracks that play during predefined conditions. There would be no meshing between songs (except for a crossfade, perhaps) and variations of tracks would still be their own discrete tracks. With adaptive music, however, the music can add or subtract elements on-the-fly in response to the current state of the game. The same track could play completely differently in regards to instruments, tempo, etc. given different game states. 
+
+Adaptive music, where the music is reactive to the state of the game, could be used for cognitive augmentation by providing subtle feedback to the user by responding to their actions or events in the game. 
 
 ## Music in General 
 
@@ -14,6 +16,7 @@ This relates to cognitive augmentation by virtue of encoding information or feed
 
 Further reading (and watching):
 - [Composer Marty O'Donnell - Working in Video Game Music (2012)](https://soundworkscollection.com/post/composer-marty-o-donnell-working-in-video-game-music) 
+- [Adaptive Music (In Gaming) Is Amazing, Noodle (2019)](https://www.youtube.com/watch?v=yLd5wmBNCBM)
 
 ## Tags
 _____
