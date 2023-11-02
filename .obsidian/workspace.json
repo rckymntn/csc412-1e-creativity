@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "9d6340d9065d4dd2",
+        "id": "7d267278f4ab91a6",
         "type": "tabs",
         "children": [
           {
-            "id": "388f07b5d670265f",
+            "id": "680bb78ae841f187",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sound and Cognitive Augmentation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "266ddb46b2069713",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Home (Start Here)/Works Cited (All Pages).md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -78,7 +61,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -98,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home (Start Here)/Works Cited (All Pages).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home (Start Here)/Works Cited (All Pages).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Home (Start Here)/Works Cited (All Pages).md"
-              }
+              "state": {}
             }
           }
         ]
@@ -159,17 +139,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "19be7de935542803",
+  "active": "680bb78ae841f187",
   "lastOpenFiles": [
     "Home (Start Here)/How Technology Enhances Creativity in the Video Game Creation Process.md",
-    "Home (Start Here)/Vault Image Archive/Video Game Consoles.png",
-    "Sound/Accessibility.md",
-    "Home (Start Here)/Works Cited (All Pages).md",
-    "Home (Start Here)/Vault Image Archive",
-    "Home (Start Here)",
-    "conflict-files-obsidian-git.md",
-    "Works Cited (All Pages).md",
-    "How Technology Enhances Creativity in the Video Game Creation Process.md",
+    "Sound and Cognitive Augmentation.md",
     "Cognitive Augmentation, Creativity and Enhancing Video Game Visuals.md",
     "Cognitive Augmentation To Enhance Story Design.md",
     "Story Creation Aspects/Procedural Content Generation.md",
@@ -178,7 +151,14 @@
     "Sound/Omnidirectional.md",
     "Sound/Music.md",
     "Sound/Effects.md",
-    "Sound and Cognitive Augmentation.md",
+    "Sound/Accessibility.md",
+    "Home (Start Here)/Works Cited (All Pages).md",
+    "Home (Start Here)/Vault Image Archive/Video Game Consoles.png",
+    "Home (Start Here)/Vault Image Archive",
+    "Home (Start Here)",
+    "conflict-files-obsidian-git.md",
+    "Works Cited (All Pages).md",
+    "How Technology Enhances Creativity in the Video Game Creation Process.md",
     "Using Technology To Enhance Story.md",
     "Works Cited.md",
     "Technology and Creativity to Enhance Video Game Visuals.md",
