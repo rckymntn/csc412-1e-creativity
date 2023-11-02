@@ -1,7 +1,10 @@
+___
+[[How Technology Enhances Creativity in the Video Game Creation Process|Back to Main Page]]
+[[Cognitive Augmentation To Enhance Story |Back to Cognitive Augmentation To Enhance Story]]
+____
+Basic idea: Layering textures over meshes allow people who are not programmers to easily design the environment. This allows the designers to have a higher degree of control over the environmental storytelling for the video game. I.E. creating worn out and decrepit textures for a post-apocalyptic game. 
 
-Basic idea: Layering textures over meshes allow people who are not programmers to easily design the environment. This allows the designers to have a higher degree of control over the environmental storytelling for the video game. As well as, giving design prompts through pre-made textures that can be easily ported into the game. I.E. creating worn out and decrepit textures for a post-apocalyptic game. 
 
-Adobe's Substance Designer is a tool that allows video game creators 
 
 
 Possible Quotes:

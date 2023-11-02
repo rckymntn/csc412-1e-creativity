@@ -112,7 +112,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Story Creation Aspects/Motion Capture for Emotional Story Design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +128,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Story Creation Aspects/Motion Capture for Emotional Story Design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Story Creation Aspects/Motion Capture for Emotional Story Design.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -172,11 +170,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7c89ae5ffa9cd60e",
+  "active": "19be7de935542803",
   "lastOpenFiles": [
+    "Story Creation Aspects/Motion Capture for Emotional Story Design.md",
+    "conflict-files-obsidian-git.md",
+    "Cognitive Augmentation To Enhance Story.md",
     "Story Creation Aspects/Emergent Narratives with Procedural Content Generation.md",
     "Story Creation Aspects/Environmental Story Design with Adobe's Substance Designer.md",
-    "Story Creation Aspects/Motion Capture for Emotional Story Design.md",
     "Cognitive Augmentation, Creativity and Enhancing Video Game Visuals.md",
     "How Technology Enhances Creativity in the Video Game Creation Process.md",
     "Using Technology To Enhance Story.md",
@@ -187,7 +187,6 @@
     "Sound/Music.md",
     "Sound/Omnidirectional.md",
     "Works Cited.md",
-    "conflict-files-obsidian-git.md",
     "Story Creation Aspects/Generative AI Dialogue.md",
     "Story Creation Aspects/Motion Capture.md",
     "Story Creation Aspects/Physically Based Rendering with Adobe's Substance Designer.md",
