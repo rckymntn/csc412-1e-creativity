@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sound/Technology, Sound, and Cognitive Augmentation.md",
+                "file": "Sound and Cognitive Augmentation.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sound/Effects.md",
+                "file": "Sound/Music.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sound/Effects.md",
+                "file": "Sound/Music.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sound/Effects.md",
+                "file": "Sound/Music.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sound/Effects.md"
+                "file": "Sound/Music.md"
               }
             }
           }
@@ -161,18 +161,18 @@
   },
   "active": "266ddb46b2069713",
   "lastOpenFiles": [
-    "Sound/Music.md",
+    "Sound/Effects.md",
     "Sound/Accessibility.md",
-    "How Technology Enhances Creativity in the Video Game Creation Process.md",
-    "Cognitive Augmentation, Creativity and Enhancing Video Game Visuals.md",
-    "Cognitive Augmentation To Enhance Story Design.md",
     "Story Creation Aspects/Procedural Content Generation.md",
     "Story Creation Aspects/Physically-Based Rendering.md",
     "Story Creation Aspects/Motion Capture.md",
-    "Sound/Technology, Sound, and Cognitive Augmentation.md",
+    "Cognitive Augmentation To Enhance Story Design.md",
+    "Sound/Music.md",
     "Sound/Omnidirectional.md",
-    "Sound/Effects.md",
     "Works Cited (All Pages).md",
+    "Sound and Cognitive Augmentation.md",
+    "Cognitive Augmentation, Creativity and Enhancing Video Game Visuals.md",
+    "How Technology Enhances Creativity in the Video Game Creation Process.md",
     "Using Technology To Enhance Story.md",
     "Works Cited.md",
     "Technology and Creativity to Enhance Video Game Visuals.md",

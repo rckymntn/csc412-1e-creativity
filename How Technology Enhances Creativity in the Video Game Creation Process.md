@@ -11,7 +11,7 @@ Other relevant pages
 #### Linked Pages
 
 [[Cognitive Augmentation To Enhance Story Design]]
-[[Technology, Sound, and Cognitive Augmentation]]
+[[Sound and Cognitive Augmentation]]
 	[[Accessibility]]
 	[[Effects]]
 	[[Music]]
