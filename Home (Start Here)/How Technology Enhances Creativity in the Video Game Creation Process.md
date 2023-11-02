@@ -9,7 +9,6 @@ ____
 	[[Music]]
 	[[Omnidirectional]]
 [[Cognitive Augmentation, Creativity and Enhancing Video Game Visuals]]
-
 #### This Page
 
 [[#Introduction]]
