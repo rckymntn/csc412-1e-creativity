@@ -1,6 +1,6 @@
 ___
 [[How Technology Enhances Creativity in the Video Game Creation Process|←Back to Home Page]]
-[[Sound and Cognitive Augmentation|←Back to Technology, Sound, and Cognitive Augmentation]]
+[[Sound and Cognitive Augmentation|←Back to Sound and Cognitive Augmentation]]
 ____
 
 Creative audio techniques can be implemented from the beginning of a project to create accessible video games. Doing so can move some or all of the visual cognition of traditional video games to the player's sense of hearing. In doing so, the game may use sound in unique ways to achieve cognitive augmentation by passing information through sound that may normally be visual. 
