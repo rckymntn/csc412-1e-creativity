@@ -10,3 +10,14 @@ This is an example of cognitive augmentation because being able to accurately di
 Primarily used to increase [[Effects]] in video games, but most often in competitive and horror video games.
 
 https://dl.acm.org/doi/abs/10.1145/2513002.2513015?casa_token=RJVFUXFpQ3gAAAAA:ovZ4gYLFof7VXBg7e_GVBKl7saW6J3FeVXeKFwNK7MyoCEC5kh2fadlkg4GN717jYc79YDc8Yqg69A
+
+## Tags
+_____
+
+## References (Current Page)
+____
+[1] 
+
+## Other relevant pages:
+_____
+- [[Works Cited (All Pages)]] 
