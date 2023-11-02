@@ -1,4 +1,6 @@
-
+___
+[[How Technology Enhances Creativity in the Video Game Creation Process|Back to Main Page]]
+____
 Basic idea: Layering textures over meshes allow people who are not programmers to easily design the environment. This allows the designers to have a higher degree of control over the environmental storytelling for the video game. I.E. creating worn out and decrepit textures for a post-apocalyptic game. 
 
 

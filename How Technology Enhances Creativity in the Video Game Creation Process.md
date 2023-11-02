@@ -1,7 +1,7 @@
 ## Table of Contents/Linked Pages
 ____
 
-[[Using Technology To Enhance Story]]
+[[To Enhance Story]]
 [[Technology, Sound, and Cognitive Augmentation]]
 	[[Accessibility]]
 	[[Effects]]
@@ -24,7 +24,6 @@ Creativity is a necessary and fundamental characteristic in video game developme
 ___
 
 
-## [[Works Cited]]
 
 --- 
 
@@ -33,6 +32,9 @@ ___
 _____
 #videogame #creativity #videogamesound #videogamestory #videogamevisuals 
 
-## References
+## References (Current Page)
 ____
 [1] “Video game,” New World Encyclopedia, https://www.newworldencyclopedia.org/entry/Video_game (accessed Nov. 1, 2023).
+
+## [[Works Cited]] (All Pages)
+_______________________________________________

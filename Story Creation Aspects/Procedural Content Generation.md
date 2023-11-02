@@ -1,4 +1,6 @@
-
+___
+[[How Technology Enhances Creativity in the Video Game Creation Process|Back to Main Page]]
+____
 Simpler Example: Settler's of Catan
 
 Looking for emergent stories or narrative material. 
