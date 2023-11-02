@@ -4,30 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "9d6340d9065d4dd2",
+        "id": "79e7a77ea1f46883",
         "type": "tabs",
         "children": [
           {
-            "id": "388f07b5d670265f",
+            "id": "5c3375aa2bf7539e",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "How Technology Enhances Creativity in the Video Game Creation Process.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
+              "type": "empty",
+              "state": {}
             }
           },
           {
-            "id": "7c89ae5ffa9cd60e",
+            "id": "b71690f1573bb55e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Story Creation Aspects/Motion Capture for Emotional Story Design.md",
+                "file": "Cognitive Augmentation To Enhance Story Design.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Story Creation Aspects/Motion Capture for Emotional Story Design.md",
+                "file": "Cognitive Augmentation To Enhance Story Design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Story Creation Aspects/Motion Capture for Emotional Story Design.md",
+                "file": "Cognitive Augmentation To Enhance Story Design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Story Creation Aspects/Motion Capture for Emotional Story Design.md"
+                "file": "Cognitive Augmentation To Enhance Story Design.md"
               }
             }
           }
@@ -160,28 +154,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7c89ae5ffa9cd60e",
+  "active": "b71690f1573bb55e",
   "lastOpenFiles": [
-    "Sound/Omnidirectional.md",
-    "Sound/Effects.md",
-    "Sound/Technology, Sound, and Cognitive Augmentation.md",
-    "Cognitive Augmentation To Enhance Story.md",
+    "conflict-files-obsidian-git.md",
     "How Technology Enhances Creativity in the Video Game Creation Process.md",
     "Cognitive Augmentation, Creativity and Enhancing Video Game Visuals.md",
-    "Story Creation Aspects/Motion Capture for Emotional Story Design.md",
-    "Story Creation Aspects/Environmental Story Design with Adobe's Substance Designer.md",
-    "Story Creation Aspects/Emergent Narratives with Procedural Content Generation.md",
-    "Sound/Music.md",
+    "Cognitive Augmentation To Enhance Story Design.md",
+    "Story Creation Aspects/Motion Capture.md",
+    "Story Creation Aspects/Procedural Content Generation.md",
+    "Story Creation Aspects/Physically-Based Rendering.md",
     "Works Cited (All Pages).md",
+    "Sound/Technology, Sound, and Cognitive Augmentation.md",
+    "Sound/Omnidirectional.md",
+    "Sound/Effects.md",
+    "Sound/Music.md",
     "Works Cited.md",
-    "conflict-files-obsidian-git.md",
     "Using Technology To Enhance Story.md",
     "Story Creation Aspects/Creating Interactive Stories with Generative AI Dialogue.md",
     "Sound/Accessibility.md",
     "Story Creation Aspects/Generative AI Dialogue.md",
-    "Story Creation Aspects/Motion Capture.md",
     "Story Creation Aspects/Physically Based Rendering with Adobe's Substance Designer.md",
-    "Story Creation Aspects/Procedural Content Generation.md",
     "Sound/Using Technology to Enhance Sound.md",
     "0 - How Technology Enhances Creativity in the Video Game Creation Process.md",
     "Story Creation Aspects",

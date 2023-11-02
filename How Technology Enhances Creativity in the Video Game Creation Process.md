@@ -1,7 +1,7 @@
 ## Table of Contents/Linked Pages
 ____
 
-[[Cognitive Augmentation To Enhance Story]]
+[[Cognitive Augmentation To Enhance Story Design]]
 [[Technology, Sound, and Cognitive Augmentation]]
 	[[Accessibility]]
 	[[Effects]]
