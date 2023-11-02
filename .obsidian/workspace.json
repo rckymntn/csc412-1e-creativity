@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sound and Cognitive Augmentation.md",
+                "file": "Sound/Music.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sound and Cognitive Augmentation.md",
+                "file": "Sound/Music.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sound and Cognitive Augmentation.md",
+                "file": "Sound/Music.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sound and Cognitive Augmentation.md"
+                "file": "Sound/Music.md"
               }
             }
           }
@@ -148,14 +148,14 @@
   },
   "active": "680bb78ae841f187",
   "lastOpenFiles": [
+    "Sound/Effects.md",
+    "Sound and Cognitive Augmentation.md",
     "Cognitive Augmentation, Creativity and Enhancing Video Game Visuals.md",
     "Story Creation Aspects/Procedural Content Generation.md",
     "Cognitive Augmentation To Enhance Story Design.md",
-    "Sound/Effects.md",
     "Sound/Music.md",
     "Sound/Omnidirectional.md",
     "Sound/Accessibility.md",
-    "Sound and Cognitive Augmentation.md",
     "Story Creation Aspects/Physically-Based Rendering.md",
     "Story Creation Aspects/Motion Capture.md",
     "Home (Start Here)/How Technology Enhances Creativity in the Video Game Creation Process.md",
