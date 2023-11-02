@@ -1,7 +1,12 @@
+<<<<<<< HEAD
+# What is Motion Capture
+ 
+=======
 _____
 [[How Technology Enhances Creativity in the Video Game Creation Process|Back to Main Page]]
 [[Cognitive Augmentation To Enhance Story |Back to Cognitive Augmentation To Enhance Story]]
 ____
+>>>>>>> origin/main
 
 Motion Capture technology has greatly enhanced the ability for characters in video games to have realistic emotional expressions and behaviors. This has allowed for writers more freedom to design emotional and dramatic stories that wouldn't have as much of an impact without it. 
 
