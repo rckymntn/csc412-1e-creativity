@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3809759156bd2c07",
+            "id": "7c29916fe086aa36",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cognitive Augmentation To Enhance Story Design.md",
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cognitive Augmentation To Enhance Story Design.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cognitive Augmentation To Enhance Story Design.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cognitive Augmentation To Enhance Story Design.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -145,18 +145,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3809759156bd2c07",
+  "active": "e8fcd0ff92fd37d2",
   "lastOpenFiles": [
-    "Story Creation Aspects/Procedural Content Generation.md",
     "Story Creation Aspects/Physically-Based Rendering.md",
-    "Cognitive Augmentation To Enhance Story Design.md",
-    "Cognitive Augmentation, Creativity and Enhancing Video Game Visuals.md",
-    "Story Creation Aspects/Motion Capture.md",
-    "Home (Start Here)/How Technology Enhances Creativity in the Video Game Creation Process.md",
+    "Story Creation Aspects/Procedural Content Generation.md",
     "Home (Start Here)/Vault Image Archive/Story.jpg",
-    "Home (Start Here)/Vault Image Archive/Visuals Title.png",
     "Home (Start Here)/Vault Image Archive/Video Game Consoles.png",
+    "Home (Start Here)/Vault Image Archive/Visuals Title.png",
     "Home (Start Here)/Vault Image Archive/HomePage Title.gif",
+    "Sound/Music.md",
+    "Cognitive Augmentation To Enhance Story Design.md",
+    "conflict-files-obsidian-git.md",
+    "Story Creation Aspects/Motion Capture.md",
+    "Cognitive Augmentation, Creativity and Enhancing Video Game Visuals.md",
+    "Home (Start Here)/How Technology Enhances Creativity in the Video Game Creation Process.md",
     "Home (Start Here)/Vault Image Archive/Adobe Substance Designer Interface.jpg"
   ]
 }
