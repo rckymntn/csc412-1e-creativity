@@ -35,7 +35,7 @@ Two definitions are important for this vault, cognitive augmentation and creativ
 
 **_Cognitive Augmentation_**:
 
-
+To synthesize this definition, we look at 
 
 - **_Creativity_**:
 
