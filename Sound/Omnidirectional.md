@@ -1,3 +1,4 @@
+![[Sound.jpg]]
 ___
 [[How Technology Enhances Creativity in the Video Game Creation Process|←Back to Home Page]]
 [[Cognitive Augmentation, Creativity, and Sound|←Back to Sound and Cognitive Augmentation]]

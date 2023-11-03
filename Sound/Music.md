@@ -1,3 +1,4 @@
+![[Sound.jpg]]
 ___
 [[How Technology Enhances Creativity in the Video Game Creation Process|←Back to Home Page]]
 [[Cognitive Augmentation, Creativity, and Sound|←Back to Sound and Cognitive Augmentation]]
@@ -10,7 +11,7 @@ Adaptive music is an underexplored way in which creativity in the video game des
 
 ## Music in General 
 
-Music, reactive or not, can also be used to emphasize certain narrative elements by setting a certain tone, providing rhythm, or some other auditory technique to draw the player's attention or emotion in a certain direction. As such, music is often involved early in the game development process and may be a crucial part of [[Using Technology To Enhance Story]].
+Music, reactive or not, can also be used to emphasize certain narrative elements by setting a certain tone, providing rhythm, or some other auditory technique to draw the player's attention or emotion in a certain direction. As such, music is often involved early in the game development process and may be a crucial part of [[Cognitive Augmentation To Enhance Story Design|using technology to enhance story]].
 
 This relates to cognitive augmentation by virtue of encoding information or feedback to the player in music that dynamically responds to their actions. Instead of presenting and processing that information visually, the player hears the information and processes it through their hearing. 
 

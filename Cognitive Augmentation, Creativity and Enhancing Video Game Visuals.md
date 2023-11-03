@@ -1,7 +1,7 @@
+![[Visuals Title.png]]
 ___
 [[How Technology Enhances Creativity in the Video Game Creation Process|←Back to Home Page]]
 ____
-![[Visuals Title.png]]
 # Introduction to Video Game Visuals and Technology
 ____
 In the digital age, visual design in video games has become an art form in itself. From realistic graphics and immersive environments, to intricate character design and stunning special effects, technology has become an indispensable tool for game developers and artists, enabling them to push the boundaries of creativity and deliver captivating, visually stunning experiences to players around the world. The intersection of technology and creativity is reshaping the landscape of video game visuals and setting new standards for immersive, interactive storytelling.
@@ -18,16 +18,18 @@ A range of technologies have supported creativity in the design of video game vi
 
 ![[Evolution of Graphics.png |300]]
 _Evolution of Video Game Graphics_ [4].
-
 ## Tags
 _____
 #cgi #videogamevisuals #motioncapture #gameengines
 ## References (Current Page)
 ____
-[1] [1] “Computer space,” Wikipedia, https://en.wikipedia.org/wiki/Computer_Space (accessed Nov. 2023).
-[2] [1] “Original nutting associates computer space (1971) gameplay,” YouTube, https://www.youtube.com/watch?v=YR7gmVpw6Io (accessed Nov. 2, 2023).
-[3] [1] A. Kumar, “Graphics in the game industry,” _Beginning PBR Texturing_, pp. 13–29, 2020. doi:10.1007/978-1-4842-5899-6_2
-[4][4] Y. Choudhary, “The Evolution of Video Game Graphics: From 8-bit to Photorealistic,” _GameSurve_, Apr. 07, 2023. https://www.gamesurve.com/post/the-evolution-of-video-game-graphics-from-8-bit-to-photorealistic‌
+[1] “Computer space,” Wikipedia, https://en.wikipedia.org/wiki/Computer_Space (accessed Nov. 2023).
+
+[2] “Original nutting associates computer space (1971) gameplay,” YouTube, https://www.youtube.com/watch?v=YR7gmVpw6Io (accessed Nov. 2, 2023).
+
+[3] A. Kumar, “Graphics in the game industry,” _Beginning PBR Texturing_, pp. 13–29, 2020. doi:10.1007/978-1-4842-5899-6_2
+
+[4] Y. Choudhary, “The Evolution of Video Game Graphics: From 8-bit to Photorealistic,” _GameSurve_, Apr. 07, 2023. https://www.gamesurve.com/post/the-evolution-of-video-game-graphics-from-8-bit-to-photorealistic‌
 ## Other relevant pages:
 _____
 - [[Works Cited (All Pages)]] 

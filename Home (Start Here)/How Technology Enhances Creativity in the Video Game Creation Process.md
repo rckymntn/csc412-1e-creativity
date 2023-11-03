@@ -77,7 +77,7 @@ ____
   
 [4] R. Khalil, B. Godde, and A. A. Karim, “The link between creativity, cognition, and creative drives and underlying neural mechanisms,” _Frontiers in Neural Circuits_, vol. 13, 2019. doi:10.3389/fncir.2019.00018
 
-[5] [1] “Cognitive computing,” www.cognizant.com, https://www.cognizant.com/us/en/glossary/cognitive-computing (accessed Nov 2023).
+[5] “Cognitive computing,” www.cognizant.com, https://www.cognizant.com/us/en/glossary/cognitive-computing (accessed Nov 2023).
 
 ## Other Relevant Pages
 _____

@@ -1,9 +1,8 @@
+![[Visuals Title.png]]____
 ___
 [[How Technology Enhances Creativity in the Video Game Creation Process|←Back to Home Page]]
 [[Cognitive Augmentation, Creativity and Enhancing Video Game Visuals|←Cognitive Augmentation, Creativity and Enhancing Video Game Visuals]]
 ____
-![[Visuals Title.png]]
-
 # An overview of CGI in the Video Game Creation Process
 ____
 
@@ -18,9 +17,11 @@ _____
 #CGI #videogamevisuals 
 ## References (Current Page)
 ____
-[1] [1] C. Therrien , “Visual Design in Video Games ,” _Video Game History: From Bouncing Blocks to a Global Industry, Greenwood Press, Westport, Conn._ , 2008. [Online]. Available: https://ludicine.ca/sites/ludicine.ca/files/Therrien%20-%20Visual%20History.pdf
-[2] [1] E. Byrnes, “Maid of Sker Review: Hauntingly Beautiful,” Gamespace, https://www.gamespace.com/reviews/maid-of-sker-review-hauntingly-beautiful/ (accessed Nov. 2023).
-[3] [1] A. Kumar, “Graphics in the game industry,” _Beginning PBR Texturing_, pp. 13–29, 2020. doi:10.1007/978-1-4842-5899-6_2
+[1] C. Therrien , “Visual Design in Video Games ,” _Video Game History: From Bouncing Blocks to a Global Industry, Greenwood Press, Westport, Conn._ , 2008. [Online]. Available: https://ludicine.ca/sites/ludicine.ca/files/Therrien%20-%20Visual%20History.pdf
+
+[2] E. Byrnes, “Maid of Sker Review: Hauntingly Beautiful,” Gamespace, https://www.gamespace.com/reviews/maid-of-sker-review-hauntingly-beautiful/ (accessed Nov. 2023).
+
+[3] A. Kumar, “Graphics in the game industry,” _Beginning PBR Texturing_, pp. 13–29, 2020. doi:10.1007/978-1-4842-5899-6_2
 ## Other relevant pages:
 _____
 - [[Works Cited (All Pages)]] 
