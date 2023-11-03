@@ -13,6 +13,8 @@ Some popular examples of games with a heavy emphasis on omnidirectional sound do
 - *Rainbow Six: Siege*, Ubisoft (2015)
 These games will use omnidirectional sound [[Effects]] to provide information to the player. For example, in *Hunt: Showdown*, if you hear crows cawing and flying away in the distance, you can be sure there was a team there. If you can accurately pinpoint where the noise came from, you can then find the team. These games also make use footsteps to identify player positions when in close proximity. 
 
+These omnidirectional sound effects could augment creativity by providing players a new source of information from which to formulate strategies. Continuing with the above crow noises example from *Hunt: Showdown*, players do not have to see each other to be made aware of their presence and can opt to try and ambush the other group or they could try to avoid the other group's suspected area. 
+
 Further reading:
 - [Spatial sound for video games and virtual environments utilizing real-time GPU-based convolution](https://dl.acm.org/doi/abs/10.1145/1496984.1497012?casa_token=2NztE0RwrsUAAAAA:VpL74kCzVKDNv6MEFGUWRPZ8-XZVVvGazXWYXwvszE5DRq21yiNtPGy8VFECfJnXUGZ8zyPysXKbWQ)
 
