@@ -1,6 +1,6 @@
 ___
 [[How Technology Enhances Creativity in the Video Game Creation Process|←Back to Home Page]]
-[[Sound and Cognitive Augmentation|←Back to Sound and Cognitive Augmentation]]
+[[Cognitive Augmentation, Creativity, and Sound|←Back to Sound and Cognitive Augmentation]]
 ____
 
 Omnidirectional sound is sound which can be perceived and interpreted as originating from a specific point in space. For example, hearing footsteps run down a hallway one floor up from you. Typically, creating realistic sounding audio originating at a different point on the vertical axis has been a pain point in several games. As such, the vertical component of omnidirectional sound will often go through several iterations and tweaks to achieve an accurate result. 
@@ -20,6 +20,7 @@ Further reading:
 
 ## Tags
 _____
+#sound #omnidirectional #videogame #videogamesound 
 
 ## References (Current Page)
 ____
