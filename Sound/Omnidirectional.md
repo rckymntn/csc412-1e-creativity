@@ -12,6 +12,7 @@ Some popular examples of games with a heavy emphasis on omnidirectional sound do
 - *Hunt: Showdown*, Crytek (2018)
 - *Dark and Darker*, IronMace Studios (2023)
 - *Rainbow Six: Siege*, Ubisoft (2015)
+
 These games will use omnidirectional sound [[Effects]] to provide information to the player. For example, in *Hunt: Showdown*, if you hear crows cawing and flying away in the distance, you can be sure there was a team there. If you can accurately pinpoint where the noise came from, you can then find the team. These games also make use footsteps to identify player positions when in close proximity. 
 
 These omnidirectional sound effects could augment creativity by providing players a new source of information from which to formulate strategies. Continuing with the above crow noises example from *Hunt: Showdown*, players do not have to see each other to be made aware of their presence and can opt to try and ambush the other group or they could try to avoid the other group's suspected area. 

@@ -4,59 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9d6340d9065d4dd2",
+        "id": "7fae8cc394128f74",
         "type": "tabs",
         "children": [
           {
-            "id": "bd848b09842fbeb7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cognitive Augmentation, Creativity and Enhancing Video Game Visuals.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5b5f8911a6ba68f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Visuals/Game Engines.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "02849ea88501c2d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Visuals/Game Engines.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "57c6c83dc0fa279a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sound/Accessibility.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "be654f8100ad0149",
+            "id": "906b03f8b7a559e9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -66,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "39daca0b6dfefb9a",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Home (Start Here)/Vault Media Archive/Evolution of Graphics.png"
-              }
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -204,10 +145,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "be654f8100ad0149",
+  "active": "906b03f8b7a559e9",
   "lastOpenFiles": [
-    "Cognitive Augmentation, Creativity and Enhancing Video Game Visuals.md",
-    "Home (Start Here)/How Technology Enhances Creativity in the Video Game Creation Process.md",
+    "Home (Start Here)/Works Cited (All Pages).md",
     "Sound/Accessibility.md",
     "Sound/Effects.md",
     "Sound/Music.md",
@@ -217,8 +157,10 @@
     "Visuals/CGI.md",
     "Visuals/Game Engines.md",
     "Cognitive Augmentation To Enhance Story Design.md",
+    "Cognitive Augmentation, Creativity and Enhancing Video Game Visuals.md",
     "Cognitive Augmentation, Creativity, and Sound.md",
-    "Home (Start Here)/Works Cited (All Pages).md",
+    "Home (Start Here)/Vault Media Archive/Evolution of Graphics.png",
+    "Home (Start Here)/How Technology Enhances Creativity in the Video Game Creation Process.md",
     "conflict-files-obsidian-git.md",
     "Home (Start Here)/Vault Media Archive/Sound.jpg",
     "Sound 1.jpg",
@@ -230,7 +172,6 @@
     "Home (Start Here)/Vault Media Archive/Maid of Sker 2.png",
     "Visuals/Video Games and CGI.md",
     "Home (Start Here)/Vault Media Archive/Maid of Sker.png",
-    "Home (Start Here)/Vault Media Archive/Evolution of Graphics.png",
     "Home (Start Here)/Vault Media Archive/Visuals Title.png",
     "Visuals",
     "Sound and Cognitive Augmentation.md",

@@ -9,8 +9,10 @@ Interactive story-telling is at the heart of many games. "Unlike other storytell
 ____
 "Technology affects the creative process through stylistic innovations, new formats and new practices."$^3$
 ### [[Motion Capture]]
+
 A key aspect of storytelling is being able to show emotion in your characters. Without it, stories become limited and two dimensional. Motion capture technology allows the game's creator to be as creative as they want with their characters movements and expressions without being limited by their ability to code. Consequently, creative problems that require subtlety and realism become no problem for the augmented ability of the game's creator.
 ### [[Physically-Based Rendering]]
+
 Stories don't happen in a vacuum, they happen in environments. A dark and stormy night, a sunny island, a post-apocalyptic wasteland. "As a result, video game environments have evolved into more than being just a platform that hosts the player interaction. They have become an important outlet for artistic creativity and an important part of visual storytelling."$^{2}$ 
 In addition, "with technological advancements and emerging new tools, the methods for constructing video game environments go through changes. As the methods change with new tools at artists’ disposal, the approach towards spatial design and environmental storytelling also changes."$^2$
 Consequently, the creator is given more control over the environment that their story is being told in, augmenting their ability to create the story they imagine.
