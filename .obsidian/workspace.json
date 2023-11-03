@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "9c19f632f0b12215",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "39daca0b6dfefb9a",
             "type": "leaf",
             "state": {
@@ -42,7 +54,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -108,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Visuals/Special Effects and CGI.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Visuals/Special Effects and CGI.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Visuals/Special Effects and CGI.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -168,10 +180,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5b5f8911a6ba68f3",
+  "active": "9c19f632f0b12215",
   "lastOpenFiles": [
-    "Home (Start Here)/Vault Media Archive/Maid of Sker 2.png",
     "Visuals/Special Effects and CGI.md",
+    "conflict-files-obsidian-git.md",
+    "Home (Start Here)/Vault Media Archive/Maid of Sker 2.png",
     "Sound/Accessibility.md",
     "Sound/Effects.md",
     "Sound/Music.md",
@@ -182,7 +195,6 @@
     "Home (Start Here)/Vault Media Archive/Maid of Sker.png",
     "Visuals/Graphics Engines.md",
     "Home (Start Here)/How Technology Enhances Creativity in the Video Game Creation Process.md",
-    "conflict-files-obsidian-git.md",
     "Cognitive Augmentation To Enhance Story Design.md",
     "Cognitive Augmentation, Creativity, and Sound.md",
     "Home (Start Here)/Vault Media Archive/Evolution of Graphics.png",
