@@ -11,8 +11,63 @@
             "id": "f94d7e647a472d51",
             "type": "leaf",
             "state": {
+<<<<<<< HEAD
               "type": "empty",
               "state": {}
+=======
+              "type": "markdown",
+              "state": {
+                "file": "Cognitive Augmentation, Creativity and Enhancing Video Game Visuals.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5b5f8911a6ba68f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Visuals/Game Engines.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "02849ea88501c2d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Visuals/Game Engines.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "57c6c83dc0fa279a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Visuals/Game Engines.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "39daca0b6dfefb9a",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Home (Start Here)/Vault Media Archive/Evolution of Graphics.png"
+              }
+>>>>>>> 37a83ab010e4ec70f9a3f176fb7fbcd21a199847
             }
           }
         ]
@@ -81,7 +136,12 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "collapseAll": false,
+=======
+                "file": "Visuals/Game Engines.md",
+                "collapseAll": true,
+>>>>>>> 37a83ab010e4ec70f9a3f176fb7fbcd21a199847
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -97,6 +157,10 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
+=======
+                "file": "Visuals/Game Engines.md",
+>>>>>>> 37a83ab010e4ec70f9a3f176fb7fbcd21a199847
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +182,13 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+<<<<<<< HEAD
               "state": {}
+=======
+              "state": {
+                "file": "Visuals/Game Engines.md"
+              }
+>>>>>>> 37a83ab010e4ec70f9a3f176fb7fbcd21a199847
             }
           }
         ]
@@ -139,6 +209,7 @@
   },
   "active": "f94d7e647a472d51",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "conflict-files-obsidian-git.md",
     "Home (Start Here)/Works Cited (All Pages).md",
     "Home (Start Here)/Vault Media Archive/Unreal Engine.png",
@@ -148,12 +219,21 @@
     "Visuals/Game Engines.md",
     "Story Creation Aspects/Physically-Based Rendering.md",
     "Story Creation Aspects/Motion Capture.md",
+=======
+>>>>>>> 37a83ab010e4ec70f9a3f176fb7fbcd21a199847
     "Sound/Accessibility.md",
     "Sound/Effects.md",
     "Sound/Music.md",
     "Sound/Omnidirectional.md",
     "Cognitive Augmentation, Creativity, and Sound.md",
     "Visuals/CGI.md",
+<<<<<<< HEAD
+=======
+    "Home (Start Here)/Vault Media Archive/Unreal Engine.png",
+    "conflict-files-obsidian-git.md",
+    "Home (Start Here)/Vault Media Archive/Maid of Sker 2.png",
+    "Visuals/Video Games and CGI.md",
+>>>>>>> 37a83ab010e4ec70f9a3f176fb7fbcd21a199847
     "Home (Start Here)/Vault Media Archive/Maid of Sker.png",
     "Home (Start Here)/Vault Media Archive/Maid of Sker 2.png",
     "Maid of Sker.png",
