@@ -37,7 +37,9 @@ Two definitions are important for this vault, cognitive augmentation and creativ
 
 To synthesize this definition, we look at Cinel et al.'s definition of cognitive enhancement: "...by _cognitive enhancement_ we mean the improvement of the processes of acquiring/generating knowledge and understanding the world around us. Such processes encompass attention, the formation of knowledge, memory, judgement and evaluation, reasoning and computation, problem solving and decision making, as well as the comprehension and production of language [2]  and Fulbright's characterization of cognitive systems: "Cognitive systems, whether or not they are human or artificial, process and transform information" [3].
 
-To encompass creativity 
+To encompass creativity (a recognized aspect of cognition [4]) we arrive at a final definition for the purposes of this vault.
+
+Cognitive Augmentation 
 
 **Creativity**
 
@@ -65,7 +67,7 @@ ____
 
 [3] R. Fulbright, “Calculating Cognitive Augmentation – A Case Study,” in Augmented Cognition, 2022, pp. 533–545. doi: 10.1007/978-3-030-22419-6_38.
   
-
+[4] R. Khalil, B. Godde, and A. A. Karim, “The link between creativity, cognition, and creative drives and underlying neural mechanisms,” _Frontiers in Neural Circuits_, vol. 13, 2019. doi:10.3389/fncir.2019.00018
 
 ## Other Relevant Pages
 _____
