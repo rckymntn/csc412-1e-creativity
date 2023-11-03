@@ -14,8 +14,7 @@ _____
 
 ## References (Current Page)
 ____
-[1] 
-
+\[1] P. Ng and K. Nesbitt, “Informative sound design in video games,” _Proceedings of The 9th Australasian Conference on Interactive Entertainment: Matters of Life and Death_, 2013. doi:10.1145/2513002.2513015
 ## Other relevant pages:
 _____
 - [[Works Cited (All Pages)]] 

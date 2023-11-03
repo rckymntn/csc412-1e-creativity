@@ -1,19 +1,27 @@
 {
   "main": {
-    "id": "0043589c8e46e123",
+    "id": "2e5ed923744060f2",
     "type": "split",
     "children": [
       {
-        "id": "fd3f0033f09ddca2",
+        "id": "9d6340d9065d4dd2",
         "type": "tabs",
         "children": [
           {
+<<<<<<< HEAD
             "id": "b35be4d37158a979",
+=======
+            "id": "388f07b5d670265f",
+>>>>>>> e3e62451db2450006adb12f621239253798a1daa
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "Story Creation Aspects/Physically-Based Rendering.md",
+=======
+                "file": "Cognitive Augmentation, Creativity and Enhancing Video Game Visuals.md",
+>>>>>>> e3e62451db2450006adb12f621239253798a1daa
                 "mode": "source",
                 "source": false
               }
@@ -25,15 +33,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "6e2e6279565d16a1",
+    "id": "c99cf6c73def7d0e",
     "type": "split",
     "children": [
       {
-        "id": "3746b64abe97c850",
+        "id": "a7f47e5e1a0e73e2",
         "type": "tabs",
         "children": [
           {
-            "id": "f5a1355224d782f8",
+            "id": "19be7de935542803",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,12 +51,12 @@
             }
           },
           {
-            "id": "d7bd063ad532bbe7",
+            "id": "04c1878313d9eb9f",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#sound",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -58,7 +66,7 @@
             }
           },
           {
-            "id": "2548d8d6da0895bc",
+            "id": "88b09b5ff3fa22b2",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -72,24 +80,29 @@
     "width": 300
   },
   "right": {
-    "id": "7b3ccfd282108a65",
+    "id": "2cbd9cec9691a8e6",
     "type": "split",
     "children": [
       {
-        "id": "6a428dd552a669bd",
+        "id": "7f39b1d02108501a",
         "type": "tabs",
         "children": [
           {
-            "id": "f56e0cb6cd269272",
+            "id": "298134037b80ba1a",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "Story Creation Aspects/Physically-Based Rendering.md",
                 "collapseAll": false,
+=======
+                "file": "Cognitive Augmentation, Creativity and Enhancing Video Game Visuals.md",
+                "collapseAll": true,
+>>>>>>> e3e62451db2450006adb12f621239253798a1daa
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
@@ -97,19 +110,23 @@
             }
           },
           {
-            "id": "35144d6f41148912",
+            "id": "83d63b239761e132",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "Story Creation Aspects/Physically-Based Rendering.md",
+=======
+                "file": "Cognitive Augmentation, Creativity and Enhancing Video Game Visuals.md",
+>>>>>>> e3e62451db2450006adb12f621239253798a1daa
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "0b2b0f3283c06a9c",
+            "id": "eab9cd6d9018cafc",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,12 +137,16 @@
             }
           },
           {
-            "id": "e609256d34c961bd",
+            "id": "57748b410655ec8d",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "Story Creation Aspects/Physically-Based Rendering.md"
+=======
+                "file": "Cognitive Augmentation, Creativity and Enhancing Video Game Visuals.md"
+>>>>>>> e3e62451db2450006adb12f621239253798a1daa
               }
             }
           }
@@ -145,6 +166,7 @@
       "command-palette:Open command palette": false
     }
   },
+<<<<<<< HEAD
   "active": "b35be4d37158a979",
   "lastOpenFiles": [
     "Story Creation Aspects/Motion Capture.md",
@@ -171,5 +193,42 @@
     "Home (Start Here)",
     "How Technology Enhances Creativity in the Video Game Creation Process.md",
     "Works Cited (All Pages).md"
+=======
+  "active": "388f07b5d670265f",
+  "lastOpenFiles": [
+    "Sound and Cognitive Augmentation.md",
+    "Cognitive Augmentation To Enhance Story Design.md",
+    "Home (Start Here)/How Technology Enhances Creativity in the Video Game Creation Process.md",
+    "Cognitive Augmentation, Creativity and Enhancing Video Game Visuals.md",
+    "Home (Start Here)/Vault Image Archive/HomePage Title.gif",
+    "Story Creation Aspects/Motion Capture.md",
+    "Home (Start Here)/Vault Image Archive/Visuals Title.png",
+    "Sound/Effects.md",
+    "Sound/Music.md",
+    "Sound/Omnidirectional.md",
+    "Home (Start Here)/Vault Image Archive/Video Game Consoles.png",
+    "Home (Start Here)/Works Cited (All Pages).md",
+    "Sound/Accessibility.md",
+    "Story Creation Aspects/Physically-Based Rendering.md",
+    "Story Creation Aspects/Procedural Content Generation.md",
+    "Home (Start Here)",
+    "Pasted image 20231102001040.png{width = 50%}.md",
+    "Home (Start Here)/Vault Image Archive",
+    "conflict-files-obsidian-git.md",
+    "Sound/Technology, Sound, and Cognitive Augmentation.md",
+    "Cognitive Augmentation To Enhance Story.md",
+    "Story Creation Aspects/Emergent Narratives with Procedural Content Generation.md",
+    "Story Creation Aspects/Environmental Story Design with Adobe's Substance Designer.md",
+    "Story Creation Aspects/Motion Capture for Emotional Story Design.md",
+    "To Enhance Story.md",
+    "Story Creation Aspects/Generative AI Dialogue.md",
+    "Story Creation Aspects/Physically Based Rendering with Adobe's Substance Designer.md",
+    "Untitled.canvas",
+    "Sound/Using Technology to Enhance Sound.md",
+    "0 - How Technology Enhances Creativity in the Video Game Creation Process.md",
+    "Story Creation Aspects",
+    "Sound/Immersion.md",
+    "Sound"
+>>>>>>> e3e62451db2450006adb12f621239253798a1daa
   ]
 }
