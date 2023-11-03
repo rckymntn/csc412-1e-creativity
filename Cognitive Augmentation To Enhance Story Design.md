@@ -40,3 +40,13 @@ Some ideas regarding procedural generation:
 	- Allows better emotional expression from characters which allows writers to write stronger emotional narratives.
 	- The Kinesthetic Index: Video Games and the Body of Motion Capture
 
+## Tags
+_____
+
+## References (Current Page)
+____
+[1] 
+
+## Other relevant pages:
+_____
+- [[Works Cited (All Pages)]] 
