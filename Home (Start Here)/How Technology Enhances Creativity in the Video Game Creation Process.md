@@ -5,12 +5,18 @@ ____
 #### Linked Sub-Sections
 
 [[Cognitive Augmentation To Enhance Story Design]]
+	[[Accessibility]]
+	[[Effects]]
+	[[Music]]
+	[[Sound]]
 [[Cognitive Augmentation, Creativity, and Sound]]
 	[[Accessibility]]
 	[[Effects]]
 	[[Music]]
 	[[Omnidirectional]]
 [[Cognitive Augmentation, Creativity and Enhancing Video Game Visuals]]
+	[[CGI]]
+	[[Game Engines]]
 #### This Page
 
 [[#Introduction]]
@@ -42,7 +48,11 @@ Cognitive Augmentation refers to the processes (human or technological) influenc
 # Overview of the Video Game Creation Process
 ___
 
+This vault will explore three aspects of the video game creation process:
 
+- [[Cognitive Augmentation To Enhance Story Design]]
+- [[Cognitive Augmentation, Creativity, and Sound]]
+- [[Cognitive Augmentation, Creativity and Enhancing Video Game Visuals]]
 # Key Terms and Definitions
 --- 
 This section provides definitions for key terms that will be used throughout this vault.
@@ -50,8 +60,6 @@ This section provides definitions for key terms that will be used throughout thi
 - **_Video Game_**: A game that involves the interaction with a user interface to generate visual feedback on a video device. [1]
 
 - **_Cognitive Augmentation_**: The processes (human or technological) influenced by cognitive science to simulate and improve the human thought process, and process and transform information. Cognitive Augmentation encompasses technologies that improve cognitive processes such as creativity, attention, the formation of knowledge, memory, judgement and evaluation, reasoning and computation, problem solving and decision making, as well as the comprehension and production of language. [2, 3, 4]
-
-- **_Creativity_**:
 
 # Appendix
 __________
