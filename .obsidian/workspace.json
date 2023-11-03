@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bd848b09842fbeb7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cognitive Augmentation, Creativity and Enhancing Video Game Visuals.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cognitive Augmentation, Creativity and Enhancing Video Game Visuals.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cognitive Augmentation, Creativity and Enhancing Video Game Visuals.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -145,11 +158,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "388f07b5d670265f",
+  "active": "bd848b09842fbeb7",
   "lastOpenFiles": [
+    "Cognitive Augmentation, Creativity and Enhancing Video Game Visuals.md",
+    "conflict-files-obsidian-git.md",
+    "Cognitive Augmentation, Creativity, and Sound.md",
     "Sound and Cognitive Augmentation.md",
     "Home (Start Here)/How Technology Enhances Creativity in the Video Game Creation Process.md",
-    "Cognitive Augmentation, Creativity and Enhancing Video Game Visuals.md",
     "Cognitive Augmentation To Enhance Story Design.md",
     "Sound/Accessibility.md",
     "Sound/Effects.md",
@@ -172,7 +187,6 @@
     "Home (Start Here)",
     "Pasted image 20231102001040.png{width = 50%}.md",
     "Home (Start Here)/Vault Media Archive",
-    "conflict-files-obsidian-git.md",
     "Sound/Technology, Sound, and Cognitive Augmentation.md",
     "Cognitive Augmentation To Enhance Story.md",
     "Story Creation Aspects/Emergent Narratives with Procedural Content Generation.md",

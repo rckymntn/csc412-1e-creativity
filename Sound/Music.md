@@ -1,6 +1,6 @@
 ___
 [[How Technology Enhances Creativity in the Video Game Creation Process|←Back to Home Page]]
-[[Sound and Cognitive Augmentation|←Back to Sound and Cognitive Augmentation]]
+[[Cognitive Augmentation, Creativity, and Sound|←Back to Sound and Cognitive Augmentation]]
 ____
 ## Adaptive Music 
 
@@ -21,6 +21,7 @@ Further reading (and watching):
 
 ## Tags
 _____
+#sound #music #adaptivemusic #videogame #videogamesound 
 
 ## References (Current Page)
 ____

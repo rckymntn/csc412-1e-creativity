@@ -1,6 +1,6 @@
 ___
 [[How Technology Enhances Creativity in the Video Game Creation Process|←Back to Home Page]]
-[[Sound and Cognitive Augmentation|←Back to Sound and Cognitive Augmentation]]
+[[Cognitive Augmentation, Creativity, and Sound|←Back to Sound and Cognitive Augmentation]]
 ____
 
 Effects in and of itself are less clearly linked to creative cognitive augmentation, but I wanted to include it for sake of completeness with [[Omnidirectional]] sounds. 
@@ -13,10 +13,12 @@ So similar to [[Music]] and [[Omnidirectional]] sound, effects achieve cognitive
 
 ## Tags
 _____
+#sound #videogame #videogamesound #effects
 
 ## References (Current Page)
 ____
 \[1] P. Ng and K. Nesbitt, “Informative sound design in video games,” _Proceedings of The 9th Australasian Conference on Interactive Entertainment: Matters of Life and Death_, 2013. doi:10.1145/2513002.2513015
+
 ## Other relevant pages:
 _____
 - [[Works Cited (All Pages)]] 
