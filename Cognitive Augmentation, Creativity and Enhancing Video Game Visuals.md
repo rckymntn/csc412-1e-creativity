@@ -14,24 +14,20 @@ _Original Nutting Associates Computer Space (1971) gameplay_ [2]
 # Technology and Video Game Graphics
 ___
 
-A range of technologies have supported creativity in the design of video game visuals. [[Graphics Engines|Graphics Engines and rendering technologies]] have pushed the boundaries of realism, allowing designers to craft intricately detailed game environments. Artificial Intelligence, including [[Motion Capture |motion capture]], further enhances these visuals, allowing game designers to create characters and objects with lifelike behaviors and interactions. Advanced lighting and shadows introduce depth and authenticity, creating immersive virtual worlds that captivate players. Finally, [[Special Effects|special effects]] are the finishing touches that create worlds beyond our own. Collectively, these technological advancements play a pivotal role in shaping evolving landscape of video game graphics, offering players more immersive and captivating gaming adventures.
-## The Creative Process in Video Game Design
-___
+A range of technologies have supported creativity in the design of video game visuals. [[Graphics Engines|Graphics Engines and rendering technologies]] have pushed the boundaries of realism, allowing designers to craft intricately detailed game environments. Artificial Intelligence, including [[Motion Capture |motion capture]], further enhances these visuals, allowing game designers to create characters and objects with lifelike behaviors and interactions. Advanced lighting and shadows introduce depth and authenticity, creating immersive virtual worlds that captivate players. Finally, [[Special Effects|special effects]] are the finishing touches that create worlds beyond our own. Collectively, these technological advancements allow designers to explore creativity in new ways that would ultimately not be possible without them.
+
+![[Evolution of Graphics.png |300]]
+_Evolution of Video Game Graphics_ [3]
 
 Character and World Design
 Visual Storytelling
 Concept Art and Pre-visualization
-## Impact on User Experience
+## Why do Video Game Graphics Matter?
 ___
 
 Player Immersion
 User-Generated Content
 Cross-Platform Visuals
-## Notable Examples and Case Studies
-___
-
-Game Showcase
-Visual Evolution Over Time
 
 ## Tags
 _____

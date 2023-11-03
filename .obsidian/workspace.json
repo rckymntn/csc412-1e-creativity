@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "388f07b5d670265f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cognitive Augmentation, Creativity and Enhancing Video Game Visuals.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "bd848b09842fbeb7",
             "type": "leaf",
             "state": {
@@ -35,16 +23,13 @@
             "id": "39daca0b6dfefb9a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Cognitive Augmentation, Creativity and Enhancing Video Game Visuals.md",
-                "mode": "source",
-                "source": false
+                "file": "Home (Start Here)/Vault Media Archive/Evolution of Graphics.png"
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -170,19 +155,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "39daca0b6dfefb9a",
+  "active": "bd848b09842fbeb7",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Home (Start Here)/How Technology Enhances Creativity in the Video Game Creation Process.md",
     "Cognitive Augmentation, Creativity and Enhancing Video Game Visuals.md",
+    "Cognitive Augmentation To Enhance Story Design.md",
+    "Cognitive Augmentation, Creativity, and Sound.md",
+    "Home (Start Here)/Vault Media Archive/Evolution of Graphics.png",
+    "conflict-files-obsidian-git.md",
     "Visuals/Special Effects.md",
     "Visuals/Graphics Engines.md",
     "Home (Start Here)/Vault Media Archive/Visuals Title.png",
     "Story Creation Aspects/Motion Capture.md",
     "Visuals",
-    "Cognitive Augmentation, Creativity, and Sound.md",
     "Sound and Cognitive Augmentation.md",
-    "Home (Start Here)/How Technology Enhances Creativity in the Video Game Creation Process.md",
-    "Cognitive Augmentation To Enhance Story Design.md",
     "Sound/Accessibility.md",
     "Sound/Effects.md",
     "Sound/Music.md",
@@ -211,7 +197,6 @@
     "Story Creation Aspects/Generative AI Dialogue.md",
     "Story Creation Aspects/Physically Based Rendering with Adobe's Substance Designer.md",
     "Untitled.canvas",
-    "Sound/Using Technology to Enhance Sound.md",
     "Story Creation Aspects",
     "Sound"
   ]
