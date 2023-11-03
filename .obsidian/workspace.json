@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "39ab792710a9def8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sound/Music.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sound/Music.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sound/Music.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -146,8 +159,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "680bb78ae841f187",
+  "active": "39ab792710a9def8",
   "lastOpenFiles": [
+    "Sound/Music.md",
+    "conflict-files-obsidian-git.md",
     "Home (Start Here)/Vault Image Archive/Story.jpg",
     "Sound/Effects.md",
     "Home (Start Here)/How Technology Enhances Creativity in the Video Game Creation Process.md",
@@ -168,8 +183,6 @@
     "Home (Start Here)/Vault Image Archive/Motion Capture Headset.jpg",
     "Home (Start Here)/Vault Image Archive/HomePage Title.gif",
     "Home (Start Here)/Vault Image Archive/Adobe Substance Designer Interface.jpg",
-    "Sound/Music.md",
-    "conflict-files-obsidian-git.md",
     "personal_reflection.md",
     "personal_reflection.txt",
     "logan_reflection.txt",
