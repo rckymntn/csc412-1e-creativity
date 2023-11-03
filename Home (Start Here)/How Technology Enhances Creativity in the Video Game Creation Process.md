@@ -21,7 +21,7 @@ ____
 [[#Other Relevant Pages]]
 
 ____
-## Introduction
+# Introduction
 ___
 
 Video games exist at the intersection of technology and creativity, art and science, interactivity, interconnectivity and the quest to conquer worlds other than our own. New World Encyclopedia defines a video game as "...a **game** that involves the interaction with a user interface to generate visual feedback on a video device..." [1]. By their very nature, it is impossible to separate video games from the technology that is used to create them, distribute them, and the platforms that allow us to play them.
@@ -39,11 +39,11 @@ To synthesize a relevant definition for this vault, we look at Cinel et al.'s de
 
 Cognitive Augmentation refers to the processes (human or technological) influenced by cognitive science to simulate and improve the human thought process, and process and transform information. Cognitive Augmentation encompasses technologies that improve cognitive processes such as creativity, attention, the formation of knowledge, memory, judgement and evaluation, reasoning and computation, problem solving and decision making, as well as the comprehension and production of language [2, 3, 4].
 
-## Overview of the Video Game Creation Process
+# Overview of the Video Game Creation Process
 ___
 
 
-## Key Terms and Definitions
+# Key Terms and Definitions
 --- 
 This section provides definitions for key terms that will be used throughout this vault.
 
@@ -53,6 +53,8 @@ This section provides definitions for key terms that will be used throughout thi
 
 - **_Creativity_**:
 
+# Appendix
+__________
 ## Tags
 _____
 #videogame #creativity #videogamesound #videogamestory #videogamevisuals 

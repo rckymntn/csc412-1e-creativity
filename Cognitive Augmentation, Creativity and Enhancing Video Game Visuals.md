@@ -12,9 +12,7 @@ Because of their digital nature, video games have required the union of technolo
 _Original Nutting Associates Computer Space (1971) gameplay_ [3]
 
 ____
-
-It is impossible to discuss video games in today's world without al
-## Key Technologies for Visual Enhancement
+# Technology and Video Game Graphics
 ___
 
 Graphics Engines and Rendering
