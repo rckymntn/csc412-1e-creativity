@@ -145,11 +145,15 @@
   },
   "active": "94d8912e4e2b56ad",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "Story Creation Aspects/Physically-Based Rendering.md",
     "conflict-files-obsidian-git.md",
     "Cognitive Augmentation To Enhance Story Design.md",
     "Story Creation Aspects/Motion Capture.md",
     "Home (Start Here)/Works Cited (All Pages).md",
+=======
+    "conflict-files-obsidian-git.md",
+>>>>>>> 23ba968d0a10118ac2893b34715cc4cef88f63d3
     "Cognitive Augmentation, Creativity, and Sound.md",
     "Story Creation Aspects/Procedural Content Generation.md",
     "Sound/Omnidirectional.md",
@@ -168,6 +172,40 @@
     "Home (Start Here)/Vault Media Archive/HomePage Title.gif",
     "Home (Start Here)/Vault Media Archive/Adobe Substance Designer Interface.jpg",
     "Home (Start Here)/Vault Media Archive",
+<<<<<<< HEAD
     "Sound and Cognitive Augmentation.md"
+=======
+    "Sound and Cognitive Augmentation.md",
+    "Sound/Omnidirectional.md",
+    "Sound/Music.md",
+    "Sound/Effects.md",
+    "Sound/Accessibility.md",
+    "Story Creation Aspects/Motion Capture.md",
+    "Home (Start Here)/Vault Image Archive/Story.jpg",
+    "Home (Start Here)/How Technology Enhances Creativity in the Video Game Creation Process.md",
+    "Home (Start Here)/Works Cited (All Pages).md",
+    "Story Creation Aspects/Physically-Based Rendering.md",
+    "Story Creation Aspects/Procedural Content Generation.md",
+    "Cognitive Augmentation To Enhance Story Design.md",
+    "Cognitive Augmentation, Creativity and Enhancing Video Game Visuals.md",
+    "personal_reflection.md",
+    "personal_reflection.txt",
+    "logan_reflection.txt",
+    "Home (Start Here)/Vault Image Archive",
+    "Home (Start Here)",
+    "Works Cited (All Pages).md",
+    "How Technology Enhances Creativity in the Video Game Creation Process.md",
+    "Using Technology To Enhance Story.md",
+    "Works Cited.md",
+    "Technology and Creativity to Enhance Video Game Visuals.md",
+    "Sound/Using Technology to Enhance Sound.md",
+    "Sound/Immersion.md",
+    "Using Technology to Enhance Visuals.md",
+    "Story Creation Aspects/Generative AI Dialogue.md",
+    "Story Creation Aspects/Physically Based Rendering with Adobe's Substance Designer.md",
+    "Sound",
+    "Story Creation Aspects",
+    "Untitled.canvas"
+>>>>>>> 23ba968d0a10118ac2893b34715cc4cef88f63d3
   ]
 }
