@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cognitive Augmentation, Creativity and Enhancing Video Game Visuals.md",
+                "file": "Visuals/Special Effects and CGI.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cognitive Augmentation, Creativity and Enhancing Video Game Visuals.md",
+                "file": "Visuals/Special Effects and CGI.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cognitive Augmentation, Creativity and Enhancing Video Game Visuals.md",
+                "file": "Visuals/Special Effects and CGI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cognitive Augmentation, Creativity and Enhancing Video Game Visuals.md"
+                "file": "Visuals/Special Effects and CGI.md"
               }
             }
           }
@@ -170,13 +170,13 @@
   },
   "active": "5b5f8911a6ba68f3",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Cognitive Augmentation, Creativity and Enhancing Video Game Visuals.md",
+    "Visuals/Special Effects and CGI.md",
+    "conflict-files-obsidian-git.md",
     "Home (Start Here)/How Technology Enhances Creativity in the Video Game Creation Process.md",
     "Cognitive Augmentation To Enhance Story Design.md",
     "Cognitive Augmentation, Creativity, and Sound.md",
     "Home (Start Here)/Vault Media Archive/Evolution of Graphics.png",
-    "Visuals/Special Effects.md",
     "Visuals/Graphics Engines.md",
     "Home (Start Here)/Vault Media Archive/Visuals Title.png",
     "Story Creation Aspects/Motion Capture.md",
