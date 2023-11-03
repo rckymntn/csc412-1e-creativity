@@ -34,3 +34,21 @@ ____
 [2] IIT Palakkad Technology IHub Foundation, "Motion Capture System", 2021, https://iptif.tech/motion-capture-system/
 
 [3] Dang Phuc, Animost, "Pros and Cons of Motion Capture? The development of Motion capture Asia", 2022  https://animost.com/ideas-inspirations/pros-and-cons-of-motion-capture-the-development-of-motion-capture-asia/
+
+[1] A. Kumar, “Graphics in the game industry,” _Beginning PBR Texturing_, pp. 13–29, 2020. doi:10.1007/978-1-4842-5899-6_2 
+
+[2][1] “Unreal engine 5,” Unreal Engine, https://www.unrealengine.com/en-US/unreal-engine-5 (accessed Nov. 2, 2023).
+
+[1] [1] C. Therrien , “Visual Design in Video Games ,” _Video Game History: From Bouncing Blocks to a Global Industry, Greenwood Press, Westport, Conn._ , 2008. [Online]. Available: https://ludicine.ca/sites/ludicine.ca/files/Therrien%20-%20Visual%20History.pdf
+
+[2] [1] E. Byrnes, “Maid of Sker Review: Hauntingly Beautiful,” Gamespace, https://www.gamespace.com/reviews/maid-of-sker-review-hauntingly-beautiful/ (accessed Nov. 2023).
+
+[3] [1] A. Kumar, “Graphics in the game industry,” _Beginning PBR Texturing_, pp. 13–29, 2020. doi:10.1007/978-1-4842-5899-6_2
+
+[1] [1] “Computer space,” Wikipedia, https://en.wikipedia.org/wiki/Computer_Space (accessed Nov. 2023).
+
+[2] [1] “Original nutting associates computer space (1971) gameplay,” YouTube, https://www.youtube.com/watch?v=YR7gmVpw6Io (accessed Nov. 2, 2023).
+
+[3] [1] A. Kumar, “Graphics in the game industry,” _Beginning PBR Texturing_, pp. 13–29, 2020. doi:10.1007/978-1-4842-5899-6_2
+
+[4][4] Y. Choudhary, “The Evolution of Video Game Graphics: From 8-bit to Photorealistic,” _GameSurve_, Apr. 07, 2023. https://www.gamesurve.com/post/the-evolution-of-video-game-graphics-from-8-bit-to-photorealistic

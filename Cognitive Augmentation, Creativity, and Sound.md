@@ -13,9 +13,6 @@ Some such examples of where cognitive augmentation and creativity are explored i
 ## Tags
 _____
 #sound #music #omnidirectional #effects #accessibility #videogamesound 
-## References (Current Page)
-____
-[1] 
 
 ## Other relevant pages:
 _____
