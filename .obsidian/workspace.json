@@ -1,18 +1,22 @@
 {
   "main": {
-    "id": "00c5427c30293bd0",
+    "id": "2e5ed923744060f2",
     "type": "split",
     "children": [
       {
-        "id": "28c73b7bfb9f91ed",
+        "id": "7d267278f4ab91a6",
         "type": "tabs",
         "children": [
           {
-            "id": "65bdbbb2c7e2599d",
+            "id": "680bb78ae841f187",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Sound/Music.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -21,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "c70fcf2216cdbe13",
+    "id": "c99cf6c73def7d0e",
     "type": "split",
     "children": [
       {
-        "id": "90762fd9ccfc4fef",
+        "id": "a7f47e5e1a0e73e2",
         "type": "tabs",
         "children": [
           {
-            "id": "94d8912e4e2b56ad",
+            "id": "19be7de935542803",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -39,7 +43,7 @@
             }
           },
           {
-            "id": "0e0560790246507b",
+            "id": "04c1878313d9eb9f",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -54,7 +58,7 @@
             }
           },
           {
-            "id": "28d966b4fd1b7848",
+            "id": "88b09b5ff3fa22b2",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -68,19 +72,20 @@
     "width": 300
   },
   "right": {
-    "id": "d8280aed52fbf9a6",
+    "id": "2cbd9cec9691a8e6",
     "type": "split",
     "children": [
       {
-        "id": "7f6521acedfd8471",
+        "id": "7f39b1d02108501a",
         "type": "tabs",
         "children": [
           {
-            "id": "389e8fc905b86c22",
+            "id": "298134037b80ba1a",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Sound/Music.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,18 +97,19 @@
             }
           },
           {
-            "id": "053b229153e29750",
+            "id": "83d63b239761e132",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Sound/Music.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "fb40438ed733daed",
+            "id": "eab9cd6d9018cafc",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -114,11 +120,13 @@
             }
           },
           {
-            "id": "3bfc02591fde3fea",
+            "id": "57748b410655ec8d",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Sound/Music.md"
+              }
             }
           }
         ]
@@ -133,10 +141,53 @@
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false
     }
   },
-  "active": "65bdbbb2c7e2599d",
-  "lastOpenFiles": []
+  "active": "680bb78ae841f187",
+  "lastOpenFiles": [
+    "Home (Start Here)/Vault Image Archive/Story.jpg",
+    "Sound/Effects.md",
+    "Home (Start Here)/How Technology Enhances Creativity in the Video Game Creation Process.md",
+    "Home (Start Here)/Works Cited (All Pages).md",
+    "Sound/Omnidirectional.md",
+    "Story Creation Aspects/Physically-Based Rendering.md",
+    "Story Creation Aspects/Procedural Content Generation.md",
+    "Sound and Cognitive Augmentation.md",
+    "Cognitive Augmentation To Enhance Story Design.md",
+    "Cognitive Augmentation, Creativity and Enhancing Video Game Visuals.md",
+    "Story Creation Aspects/Motion Capture.md",
+    "Sound/Accessibility.md",
+    "Home (Start Here)/Vault Image Archive/Visuals Title.png",
+    "Home (Start Here)/Vault Image Archive/Video Game Consoles.png",
+    "Home (Start Here)/Vault Image Archive/Physically-Based Render.jpg",
+    "Home (Start Here)/Vault Image Archive/Motion Capture Set-up.jpg",
+    "Home (Start Here)/Vault Image Archive/Motion Capture Result Comparison.png",
+    "Home (Start Here)/Vault Image Archive/Motion Capture Headset.jpg",
+    "Home (Start Here)/Vault Image Archive/HomePage Title.gif",
+    "Home (Start Here)/Vault Image Archive/Adobe Substance Designer Interface.jpg",
+    "Sound/Music.md",
+    "conflict-files-obsidian-git.md",
+    "personal_reflection.md",
+    "personal_reflection.txt",
+    "logan_reflection.txt",
+    "Home (Start Here)/Vault Image Archive",
+    "Home (Start Here)",
+    "Works Cited (All Pages).md",
+    "How Technology Enhances Creativity in the Video Game Creation Process.md",
+    "Using Technology To Enhance Story.md",
+    "Works Cited.md",
+    "Technology and Creativity to Enhance Video Game Visuals.md",
+    "Sound/Using Technology to Enhance Sound.md",
+    "Sound/Immersion.md",
+    "Using Technology to Enhance Visuals.md",
+    "Story Creation Aspects/Generative AI Dialogue.md",
+    "Story Creation Aspects/Physically Based Rendering with Adobe's Substance Designer.md",
+    "Sound",
+    "Story Creation Aspects",
+    "Untitled.canvas",
+    "2023-10-25.md"
+  ]
 }
