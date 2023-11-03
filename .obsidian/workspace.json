@@ -23,9 +23,11 @@
             "id": "5b5f8911a6ba68f3",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Maid of Sker.png"
+                "file": "Visuals/Special Effects and CGI.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -106,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maid of Sker.png",
+                "file": "Visuals/Special Effects and CGI.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maid of Sker.png",
+                "file": "Visuals/Special Effects and CGI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maid of Sker.png"
+                "file": "Visuals/Special Effects and CGI.md"
               }
             }
           }
@@ -166,11 +168,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "19be7de935542803",
+  "active": "5b5f8911a6ba68f3",
   "lastOpenFiles": [
+    "Home (Start Here)/Vault Media Archive/Maid of Sker 2.png",
     "Visuals/Special Effects and CGI.md",
-    "Maid of Sker.png",
+    "Sound/Accessibility.md",
+    "Sound/Effects.md",
+    "Sound/Music.md",
+    "Sound/Omnidirectional.md",
+    "Story Creation Aspects/Motion Capture.md",
+    "Story Creation Aspects/Physically-Based Rendering.md",
     "Cognitive Augmentation, Creativity and Enhancing Video Game Visuals.md",
+    "Home (Start Here)/Vault Media Archive/Maid of Sker.png",
     "Visuals/Graphics Engines.md",
     "Home (Start Here)/How Technology Enhances Creativity in the Video Game Creation Process.md",
     "conflict-files-obsidian-git.md",
@@ -178,14 +187,8 @@
     "Cognitive Augmentation, Creativity, and Sound.md",
     "Home (Start Here)/Vault Media Archive/Evolution of Graphics.png",
     "Home (Start Here)/Vault Media Archive/Visuals Title.png",
-    "Story Creation Aspects/Motion Capture.md",
     "Visuals",
     "Sound and Cognitive Augmentation.md",
-    "Sound/Accessibility.md",
-    "Sound/Effects.md",
-    "Sound/Music.md",
-    "Sound/Omnidirectional.md",
-    "Story Creation Aspects/Physically-Based Rendering.md",
     "Story Creation Aspects/Procedural Content Generation.md",
     "Home (Start Here)/Vault Media Archive/Story.jpg",
     "Home (Start Here)/Vault Media Archive/Original Nutting Associates Computer Space (1971) gameplay.mp4",
@@ -194,7 +197,6 @@
     "Home (Start Here)/Vault Media Archive/Motion Capture Result Comparison.png",
     "Home (Start Here)/Vault Media Archive/Motion Capture Headset.jpg",
     "Home (Start Here)/Vault Media Archive/Adobe Substance Designer Interface.jpg",
-    "Home (Start Here)/Vault Media Archive/HomePage Title.gif",
     "Home (Start Here)/Works Cited (All Pages).md",
     "Home (Start Here)",
     "Pasted image 20231102001040.png{width = 50%}.md",

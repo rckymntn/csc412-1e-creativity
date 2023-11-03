@@ -19,16 +19,6 @@ A range of technologies have supported creativity in the design of video game vi
 ![[Evolution of Graphics.png |300]]
 _Evolution of Video Game Graphics_ [3]
 
-Character and World Design
-Visual Storytelling
-Concept Art and Pre-visualization
-## Why do Video Game Graphics Matter?
-___
-
-Player Immersion
-User-Generated Content
-Cross-Platform Visuals
-
 ## Tags
 _____
 
