@@ -8,7 +8,7 @@ Some such examples would be:
 - [[Accessibility]]
 - [[Effects]]
 - [[Omnidirectional]]
-- [[Music]]
+- [[Music]] 
 
 Some ideas:
 - https://dl.acm.org/doi/abs/10.1145/2513002.2513015?casa_token=PxB1NtEt00oAAAAA:6ISYMPb7lqzlsw5F1l02ICEfoXKBb5lpNWWwIjtkWcipD4QtW0DCNHLWzzhHaGJUwbAwk0teIym9bw

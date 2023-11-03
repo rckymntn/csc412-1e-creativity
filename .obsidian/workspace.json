@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sound/Omnidirectional.md",
+                "file": "Sound/Music.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sound/Omnidirectional.md",
+                "file": "Sound/Music.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sound/Omnidirectional.md",
+                "file": "Sound/Music.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sound/Omnidirectional.md"
+                "file": "Sound/Music.md"
               }
             }
           }
@@ -148,20 +148,20 @@
   },
   "active": "680bb78ae841f187",
   "lastOpenFiles": [
+    "Sound/Accessibility.md",
     "Sound/Effects.md",
     "Sound/Music.md",
+    "Sound/Omnidirectional.md",
+    "Home (Start Here)/How Technology Enhances Creativity in the Video Game Creation Process.md",
+    "Sound and Cognitive Augmentation.md",
     "Cognitive Augmentation To Enhance Story Design.md",
     "Cognitive Augmentation, Creativity and Enhancing Video Game Visuals.md",
-    "Sound and Cognitive Augmentation.md",
+    "Home (Start Here)/Works Cited (All Pages).md",
     "Story Creation Aspects/Procedural Content Generation.md",
     "Story Creation Aspects/Physically-Based Rendering.md",
     "Story Creation Aspects/Motion Capture.md",
-    "Sound/Omnidirectional.md",
-    "Sound/Accessibility.md",
     "Home (Start Here)/Vault Image Archive/Visuals Title.png",
-    "Home (Start Here)/Works Cited (All Pages).md",
     "personal_reflection.md",
-    "Home (Start Here)/How Technology Enhances Creativity in the Video Game Creation Process.md",
     "Home (Start Here)/Vault Image Archive/HomePage Title.gif",
     "conflict-files-obsidian-git.md",
     "personal_reflection.txt",

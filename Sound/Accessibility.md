@@ -9,6 +9,8 @@ An example that is less scholarly, but more practical is [Dowino's A Blind Legen
 
 This example of accessibility achieves cognitive augmentation by focusing solely on sound. While other games will have a mix of audio and visual components, this game relies entirely on a person's sense of sound. As such, even if a person's sense of sight is impaired, they can use their other senses to engage in a popular hobby. 
 
+An argument could also be made that by providing no explicit visuals, games of this variety may elicit more creativity in the player by having them imagine game state themselves. The lack of visuals may also allow for more intentional ambiguity in the design process from the developers to enhance the narrative or facilitate player creativity. 
+
 ## Tags
 _____
 
