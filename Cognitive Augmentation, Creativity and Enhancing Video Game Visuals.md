@@ -2,7 +2,7 @@ ___
 [[How Technology Enhances Creativity in the Video Game Creation Process|←Back to Home Page]]
 ____
 ![[Visuals Title.png]]
-# Introduction to Video Game Visuals
+# Introduction to Video Game Visuals and Technology
 ____
 In the digital age, visual design in video games has become an art form in itself. From realistic graphics and immersive environments, to intricate character design and stunning special effects, technology has become an indispensable tool for game developers and artists, enabling them to push the boundaries of creativity and deliver captivating, visually stunning experiences to players around the world. The intersection of technology and creativity is reshaping the landscape of video game visuals and setting new standards for immersive, interactive storytelling.
 
@@ -11,14 +11,12 @@ Because of their digital nature, video games have required the union of technolo
 ![[Original Nutting Associates Computer Space (1971) gameplay.mp4 |]]
 _Original Nutting Associates Computer Space (1971) gameplay_ [3]
 
-____
 # Technology and Video Game Graphics
 ___
 
-Graphics Engines and Rendering
-Artificial Intelligence in Visuals:
-Advanced Lighting and Shadows
-Special Effects and Visual Flourishes
+A range of technologies have supported creativity in the design of video game visuals. [[Graphics Engines|Graphics Engines and rendering technologies]] have pushed the boundaries of realism, allowing designers to craft intricately detailed game environments. Artificial Intelligence, including [[Motion Capture |motion capture]], further enhances these visuals, allowing game designers to create characters and objects with lifelike behaviors and interactions. Advanced lighting and shadows introduce depth and authenticity, creating immersive virtual worlds that captivate players. Finally, [[Special Effects|special effects]] are the finishing touches that create worlds beyond our own. Collectively, these technological advancements play a pivotal role in shaping evolving landscape of video game graphics, offering players more immersive and captivating gaming adventures.
+
+
 
 ## The Creative Process in Video Game Design
 ___
