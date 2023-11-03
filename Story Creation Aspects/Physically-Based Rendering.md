@@ -9,9 +9,11 @@ Physically Based Rendering (PBR) is "more of a concept than a strict set of rule
 
 ![[Physically-Based Render.jpg]]
 Figure 1. (Top) An example of how PBR textures look when added to a camera lens mesh. (Bottom) An example of how PBR textures look when being designed in 3d.
+Image Credit$^1$
 
 ![[Adobe Substance Designer Interface.jpg]]
-Figure 2. A snapshot of the Adobe Substance Designer interface being used to create a PBR texture in 2d.$^3$
+Figure 2. A snapshot of the Adobe Substance Designer interface being used to create a PBR texture in 2d.
+Image Credit$^3$
 ## Tags
 _____
 #videogamestory #environmentalstorytelling #design #videogamevisuals #creativity 
@@ -21,7 +23,7 @@ ____
 
 [2] Görkem Ayyildiz, "Environmental Storytelling Through Procedural Materials in Video Games", 2020, https://aaltodoc.aalto.fi/bitstream/handle/123456789/101772/master_Ayyildiz_G%c3%b6rkem_2020.pdf?sequence=1&isAllowed=y
 
-[3] https://helpx.adobe.com/substance-3d-designer/home.html
+[3] Adobe, https://helpx.adobe.com/substance-3d-designer/home.html
 
 ## Other relevant pages:
 _____

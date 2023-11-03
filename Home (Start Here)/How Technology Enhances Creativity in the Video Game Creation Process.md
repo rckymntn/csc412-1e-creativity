@@ -5,7 +5,7 @@ ____
 #### Linked Sub-Sections
 
 [[Cognitive Augmentation To Enhance Story Design]]
-[[Sound and Cognitive Augmentation]]
+[[Cognitive Augmentation, Creativity, and Sound]]
 	[[Accessibility]]
 	[[Effects]]
 	[[Music]]

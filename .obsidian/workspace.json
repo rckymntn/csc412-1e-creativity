@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "65bdbbb2c7e2599d",
+            "id": "f15dd169fa30bea3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Story Creation Aspects/Motion Capture.md",
+                "file": "Story Creation Aspects/Physically-Based Rendering.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Story Creation Aspects/Motion Capture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +101,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Story Creation Aspects/Motion Capture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Story Creation Aspects/Motion Capture.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -145,17 +143,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "65bdbbb2c7e2599d",
+  "active": "94d8912e4e2b56ad",
   "lastOpenFiles": [
     "Story Creation Aspects/Physically-Based Rendering.md",
+    "conflict-files-obsidian-git.md",
     "Cognitive Augmentation To Enhance Story Design.md",
-    "Story Creation Aspects/Procedural Content Generation.md",
     "Story Creation Aspects/Motion Capture.md",
+    "Home (Start Here)/Works Cited (All Pages).md",
+    "Cognitive Augmentation, Creativity, and Sound.md",
+    "Story Creation Aspects/Procedural Content Generation.md",
     "Sound/Omnidirectional.md",
-    "Sound/Music.md",
-    "Sound/Effects.md",
     "Sound/Accessibility.md",
+    "Sound/Effects.md",
+    "Sound/Music.md",
     "Cognitive Augmentation, Creativity and Enhancing Video Game Visuals.md",
+    "Home (Start Here)/Vault Media Archive/Visuals Title.png",
+    "Home (Start Here)/Vault Media Archive/Video Game Consoles.png",
+    "Home (Start Here)/Vault Media Archive/Story.jpg",
+    "Home (Start Here)/Vault Media Archive/Physically-Based Render.jpg",
+    "Home (Start Here)/Vault Media Archive/Original Nutting Associates Computer Space (1971) gameplay.mp4",
+    "Home (Start Here)/Vault Media Archive/Motion Capture Set-up.jpg",
+    "Home (Start Here)/Vault Media Archive/Motion Capture Result Comparison.png",
+    "Home (Start Here)/Vault Media Archive/Motion Capture Headset.jpg",
+    "Home (Start Here)/Vault Media Archive/HomePage Title.gif",
+    "Home (Start Here)/Vault Media Archive/Adobe Substance Designer Interface.jpg",
+    "Home (Start Here)/Vault Media Archive",
     "Sound and Cognitive Augmentation.md"
   ]
 }
