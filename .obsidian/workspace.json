@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cognitive Augmentation, Creativity and Enhancing Video Game Visuals.md",
+                "file": "Visuals/Game Engines.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cognitive Augmentation, Creativity and Enhancing Video Game Visuals.md",
+                "file": "Visuals/Game Engines.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cognitive Augmentation, Creativity and Enhancing Video Game Visuals.md",
+                "file": "Visuals/Game Engines.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cognitive Augmentation, Creativity and Enhancing Video Game Visuals.md"
+                "file": "Visuals/Game Engines.md"
               }
             }
           }
@@ -170,10 +170,11 @@
   },
   "active": "5b5f8911a6ba68f3",
   "lastOpenFiles": [
-    "Visuals/Game Engines.md",
     "Visuals/CGI.md",
-    "Cognitive Augmentation, Creativity and Enhancing Video Game Visuals.md",
     "Cognitive Augmentation To Enhance Story Design.md",
+    "Visuals/Game Engines.md",
+    "Home (Start Here)/How Technology Enhances Creativity in the Video Game Creation Process.md",
+    "Cognitive Augmentation, Creativity and Enhancing Video Game Visuals.md",
     "Home (Start Here)/Vault Media Archive/Maid of Sker 2.png",
     "Visuals/Video Games and CGI.md",
     "conflict-files-obsidian-git.md",
@@ -184,7 +185,6 @@
     "Story Creation Aspects/Motion Capture.md",
     "Story Creation Aspects/Physically-Based Rendering.md",
     "Home (Start Here)/Vault Media Archive/Maid of Sker.png",
-    "Home (Start Here)/How Technology Enhances Creativity in the Video Game Creation Process.md",
     "Cognitive Augmentation, Creativity, and Sound.md",
     "Home (Start Here)/Vault Media Archive/Evolution of Graphics.png",
     "Home (Start Here)/Vault Media Archive/Visuals Title.png",
