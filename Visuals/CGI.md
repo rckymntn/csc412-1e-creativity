@@ -14,7 +14,7 @@ _Figure 1 & 2: Maid of Sker Gameplay Screenshots [2]._
 CGI involves using computer software and hardware to generate images, scenes, and animations that would be difficult or impossible to create through traditional methods. The process involves creating 3D models, texturing them, adding motion through animation, applying lighting, rendering the final images, compositing different elements, and performing post-production work. CGI can vary in complexity, from 2D animations to highly detailed 3D scenes, and is widely used in the video game industry to achieve captivating visual results [3].
 ## Tags
 _____
-#CGI #videogamevisuals 
+#CGI #videogamevisuals #animation #rendering 
 ## References (Current Page)
 ____
 [1] C. Therrien , “Visual Design in Video Games ,” _Video Game History: From Bouncing Blocks to a Global Industry, Greenwood Press, Westport, Conn._ , 2008. [Online]. Available: https://ludicine.ca/sites/ludicine.ca/files/Therrien%20-%20Visual%20History.pdf

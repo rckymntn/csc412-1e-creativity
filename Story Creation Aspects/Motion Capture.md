@@ -14,7 +14,7 @@ _Figure 1: A depiction of how motion capture is recorded. "All of the reflective
 _Figure 2: A comparison between the video taken by motion capture cameras and the data recorded for animation [3]._
 
 ![[Motion Capture Headset.jpg]]
-_Figure 3: An actor in full motion capture gear including an HMC to capture facial expressions. [3]_
+_Figure 3: An actor in full motion capture gear including an HMC to capture facial expressions [3]_.
 ## Tags
 _____
 #videogamestory #design #videogamevisuals #animation

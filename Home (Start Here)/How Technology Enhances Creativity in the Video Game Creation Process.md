@@ -39,12 +39,11 @@ This vault explores the video game creation process in particular, and examines 
 
 A definition of cognitive augmentation is important for this vault. This is clarified below.
 
-**Cognitive Augmentation**
+### Cognitive Augmentation
 
 To synthesize a relevant definition for this vault, we look at Cinel et al.'s definition of cognitive enhancement: "...by _cognitive enhancement_ we mean the improvement of the processes of acquiring/generating knowledge and understanding the world around us. Such processes encompass attention, the formation of knowledge, memory, judgement and evaluation, reasoning and computation, problem solving and decision making, as well as the comprehension and production of language [2] and Fulbright's characterization of cognitive systems: "Cognitive systems, whether or not they are human or artificial, process and transform information" [3]. We also incorporate a definition of cognitive computing: "Cognitive computing refers to technology platforms influenced by cognitive science to simulate the human thought process" [4]. Lastly, in order to encompass creativity (a recognized aspect of cognition [5]) we arrive at a final definition.
 
 Cognitive Augmentation refers to the processes (human or technological) influenced by cognitive science to simulate and improve the human thought process, and process and transform information. Cognitive Augmentation encompasses technologies that improve cognitive processes such as creativity, attention, the formation of knowledge, memory, judgement and evaluation, reasoning and computation, problem solving and decision making, as well as the comprehension and production of language [2, 3, 4].
-
 # Overview of the Video Game Creation Process
 ___
 
@@ -57,10 +56,9 @@ This vault will explore three aspects of the video game creation process:
 --- 
 This section provides definitions for key terms that will be used throughout this vault.
 
-- **_Video Game_**: A game that involves the interaction with a user interface to generate visual feedback on a video device. [1]
+- **_Video Game_**: A game that involves the interaction with a user interface to generate visual feedback on a video device [1].
 
-- **_Cognitive Augmentation_**: The processes (human or technological) influenced by cognitive science to simulate and improve the human thought process, and process and transform information. Cognitive Augmentation encompasses technologies that improve cognitive processes such as creativity, attention, the formation of knowledge, memory, judgement and evaluation, reasoning and computation, problem solving and decision making, as well as the comprehension and production of language. [2, 3, 4]
-
+- **_Cognitive Augmentation_**: The processes (human or technological) influenced by cognitive science to simulate and improve the human thought process, and process and transform information. Cognitive Augmentation encompasses technologies that improve cognitive processes such as creativity, attention, the formation of knowledge, memory, judgement and evaluation, reasoning and computation, problem solving and decision making, as well as the comprehension and production of language [2, 3, 4].
 # Appendix
 __________
 ## Tags

@@ -8,10 +8,10 @@ ____
 Physically Based Rendering (PBR) is "more of a concept than a strict set of rules."$^1$ PBR is the process of creating textures that look realistic by using scalable characteristics such as color, opacity, blend, albedo, reflectivity, gloss, and more.$^3$ These textures are then layered over a mesh, a collection of vertices, edges, and faces that act as the foundation of a model, to create the game environment and characters.
 
 ![[Physically-Based Render.jpg]]
-_Figure 1: (Top) An example of how PBR textures look when added to a camera lens mesh. (Bottom) An example of how PBR textures look when being designed in 3d. [1]_
+_Figure 1: (Top) An example of how PBR textures look when added to a camera lens mesh. (Bottom) An example of how PBR textures look when being designed in 3d [1]_.
 
 ![[Adobe Substance Designer Interface.jpg]]
-_Figure 2: A snapshot of the Adobe Substance Designer interface being used to create a PBR texture in 2d. [3]_
+_Figure 2: A snapshot of the Adobe Substance Designer interface being used to create a PBR texture in 2d [3]._
 ## Tags
 _____
 #videogamestory #environmentalstorytelling #design #videogamevisuals #creativity 
