@@ -1,3 +1,4 @@
+![[Story.jpg]]
 ___
 [[How Technology Enhances Creativity in the Video Game Creation Process|←Back to Home Page]]
 [[Cognitive Augmentation To Enhance Story Design|←Back to Cognitive Augmentation To Enhance Story]]
