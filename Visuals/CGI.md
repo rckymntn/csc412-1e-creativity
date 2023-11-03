@@ -1,4 +1,4 @@
-![[Visuals Title.png]]____
+![[Visuals Title.png]]
 ___
 [[How Technology Enhances Creativity in the Video Game Creation Process|←Back to Home Page]]
 [[Cognitive Augmentation, Creativity and Enhancing Video Game Visuals|←Cognitive Augmentation, Creativity and Enhancing Video Game Visuals]]
