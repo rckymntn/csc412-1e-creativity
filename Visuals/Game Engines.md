@@ -4,9 +4,9 @@ ___
 ____
 ![[Visuals Title.png]]
 
-Game engines are platforms that provide the tools required to create and run video games. They serve as the foundation of game development, offering a range of features that aid video game designers with the process of video game creation. Kumar explains: "A game engine provides easy-to-use tools for physics input, real-time rendering, scripting, dynamics, collision detection, artificial intelligence, and more without the need for too much programming from scratch" [1]. Game engines are responsible for rendering the visual elements of a game. They use advanced rendering techniques to create lifelike environments, characters, and special effects. This includes rendering 2D or 3D graphics, handling shaders, and managing lighting and shadows. 
+Game engines are platforms that provide the tools required to create and run video games. They serve as the foundation of game development, offering a range of features that aid video game designers with the process of video game creation. Kumar explains: "A game engine provides easy-to-use tools for physics input, real-time rendering, scripting, dynamics, collision detection, artificial intelligence, and more without the need for too much programming from scratch" [1]. Game engines are responsible for rendering the visual elements of a game. They use advanced rendering techniques to create lifelike environments, characters, and special effects. This includes rendering 2D or 3D graphics and managing lighting and shadows. 
 
-
+There are a variety of game engines available including Unity, Unreal Engine, and Game Maker Studio. Game development encompasses a wide range of genres, platforms, and customizations. Different game engines can cater to these diverse needs by offering varying levels of flexibility. [1]
 
 ## Tags
 _____
