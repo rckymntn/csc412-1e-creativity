@@ -11,7 +11,7 @@ Because of their digital nature, video games have required the union of technolo
 ![[Original Nutting Associates Computer Space (1971) gameplay.mp4 |]]
 _Original Nutting Associates Computer Space (1971) gameplay_ [2]
 
-# Technology and Video Game Graphics
+# Technologies for Video Game Graphics
 ___
 
 A range of technologies have supported creativity in the design of video game visuals. [[Game Engines|Game Engines and rendering technologies]] have pushed the boundaries of realism, allowing designers to craft immersive game environments. Tools like [[Motion Capture |motion capture]], further enhance the type of visuals that are possible, allowing game designers to create characters and objects with lifelike behaviors and interactions. Advanced lighting and shadows introduce depth and authenticity, creating immersive virtual worlds that captivate players. Finally, [[CGI|CGI and special effects]] are the finishing touches that create worlds beyond our own. Collectively, these technological advancements allow designers to explore creativity in new ways that would ultimately not be possible without them [3].
@@ -27,8 +27,7 @@ ____
 [1] [1] “Computer space,” Wikipedia, https://en.wikipedia.org/wiki/Computer_Space (accessed Nov. 2023).
 [2] [1] “Original nutting associates computer space (1971) gameplay,” YouTube, https://www.youtube.com/watch?v=YR7gmVpw6Io (accessed Nov. 2, 2023).
 [3] [1] A. Kumar, “Graphics in the game industry,” _Beginning PBR Texturing_, pp. 13–29, 2020. doi:10.1007/978-1-4842-5899-6_2
-[4][4] Y. Choudhary, “The Evolution of Video Game Graphics: From 8-bit to Photorealistic,” _GameSurve_, Apr. 07, 2023. https://www.gamesurve.com/post/the-evolution-of-video-game-graphics-from-8-bit-to-photorealistic
- ‌
+[4][4] Y. Choudhary, “The Evolution of Video Game Graphics: From 8-bit to Photorealistic,” _GameSurve_, Apr. 07, 2023. https://www.gamesurve.com/post/the-evolution-of-video-game-graphics-from-8-bit-to-photorealistic‌
 ## Other relevant pages:
 _____
 - [[Works Cited (All Pages)]] 
