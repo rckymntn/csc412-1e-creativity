@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9d6340d9065d4dd2",
+        "id": "7d267278f4ab91a6",
         "type": "tabs",
         "children": [
           {
-            "id": "388f07b5d670265f",
+            "id": "680bb78ae841f187",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home (Start Here)/How Technology Enhances Creativity in the Video Game Creation Process.md",
+                "file": "personal_reflection.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#sound",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,11 +85,11 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home (Start Here)/How Technology Enhances Creativity in the Video Game Creation Process.md",
-                "collapseAll": true,
+                "file": "personal_reflection.md",
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": true,
+                "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home (Start Here)/How Technology Enhances Creativity in the Video Game Creation Process.md",
+                "file": "personal_reflection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home (Start Here)/How Technology Enhances Creativity in the Video Game Creation Process.md"
+                "file": "personal_reflection.md"
               }
             }
           }
@@ -133,50 +133,54 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false
     }
   },
-  "active": "19be7de935542803",
+  "active": "680bb78ae841f187",
   "lastOpenFiles": [
     "Home (Start Here)/Vault Image Archive/HomePage Title.gif",
-    "Sound/Effects.md",
-    "Sound/Music.md",
-    "Sound/Omnidirectional.md",
-    "Sound and Cognitive Augmentation.md",
     "Cognitive Augmentation, Creativity and Enhancing Video Game Visuals.md",
+    "personal_reflection.md",
+    "Sound and Cognitive Augmentation.md",
+    "personal_reflection.txt",
+    "logan_reflection.txt",
     "Cognitive Augmentation To Enhance Story Design.md",
-    "Home (Start Here)/Vault Image Archive/Video Game Consoles.png",
-    "Home (Start Here)/How Technology Enhances Creativity in the Video Game Creation Process.md",
-    "Home (Start Here)/Works Cited (All Pages).md",
+    "Sound/Omnidirectional.md",
+    "Sound/Music.md",
+    "Sound/Effects.md",
     "Sound/Accessibility.md",
-    "Story Creation Aspects/Motion Capture.md",
-    "Story Creation Aspects/Physically-Based Rendering.md",
+    "Home (Start Here)/Works Cited (All Pages).md",
     "Story Creation Aspects/Procedural Content Generation.md",
-    "Home (Start Here)",
-    "Pasted image 20231102001040.png{width = 50%}.md",
+    "Story Creation Aspects/Physically-Based Rendering.md",
+    "Story Creation Aspects/Motion Capture.md",
+    "Home (Start Here)/How Technology Enhances Creativity in the Video Game Creation Process.md",
+    "Home (Start Here)/Vault Image Archive/Video Game Consoles.png",
     "Home (Start Here)/Vault Image Archive",
+    "Home (Start Here)",
     "conflict-files-obsidian-git.md",
-    "Sound/Technology, Sound, and Cognitive Augmentation.md",
-    "Cognitive Augmentation To Enhance Story.md",
-    "Story Creation Aspects/Emergent Narratives with Procedural Content Generation.md",
-    "Story Creation Aspects/Environmental Story Design with Adobe's Substance Designer.md",
-    "Story Creation Aspects/Motion Capture for Emotional Story Design.md",
-    "To Enhance Story.md",
+    "Works Cited (All Pages).md",
+    "How Technology Enhances Creativity in the Video Game Creation Process.md",
+    "Using Technology To Enhance Story.md",
+    "Works Cited.md",
+    "Technology and Creativity to Enhance Video Game Visuals.md",
+    "Sound/Using Technology to Enhance Sound.md",
+    "Sound/Immersion.md",
+    "Using Technology to Enhance Visuals.md",
     "Story Creation Aspects/Generative AI Dialogue.md",
     "Story Creation Aspects/Physically Based Rendering with Adobe's Substance Designer.md",
-    "Untitled.canvas",
-    "Sound/Using Technology to Enhance Sound.md",
-    "0 - How Technology Enhances Creativity in the Video Game Creation Process.md",
+    "Sound",
     "Story Creation Aspects",
-    "Sound/Immersion.md",
-    "Sound"
+    "Untitled.canvas",
+    "2023-10-25.md"
   ]
 }
