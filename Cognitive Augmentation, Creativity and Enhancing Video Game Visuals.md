@@ -6,7 +6,7 @@ ____
 ____
 In the digital age, visual design in video games has become an art form in itself. From realistic graphics and immersive environments, to intricate character design and stunning special effects, technology has become an indispensable tool for game developers and artists, enabling them to push the boundaries of creativity and deliver captivating, visually stunning experiences to players around the world. The intersection of technology and creativity is reshaping the landscape of video game visuals and setting new standards for immersive, interactive storytelling.
 
-Cognitive Augmentation in particular, is an indispensable 
+Cognitive Augmentation in particular, is an indispensable tool in the creation process. Because of their digital nature, it is impossible to create video game visuals 
 
 ____
 
