@@ -1,5 +1,5 @@
 {
-  "commitMessage": "{{files}}",
+  "commitMessage": "Ruvie's backup: {{date}}",
   "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
   "autoSaveInterval": 2,
   "autoPushInterval": 0,
@@ -51,5 +51,5 @@
     "lastShownAuthorDisplay": "initials",
     "lastShownDateTimeFormatOptions": "date"
   },
-  "autoCommitMessage": "{{files}}"
+  "autoCommitMessage": "Ruvie's backup: {{date}}"
 }
