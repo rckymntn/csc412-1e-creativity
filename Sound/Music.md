@@ -16,8 +16,8 @@ This relates to cognitive augmentation by virtue of encoding information or feed
 
 Further reading (and watching):
 - [Adaptive game scoring with ambient music](https://search.informit.org/doi/abs/10.3316/informit.693226767506659) (Article)
-- [Composer Marty O'Donnell - Working in Video Game Music](https://soundworkscollection.com/post/composer-marty-o-donnell-working-in-video-game-music) (Video)
-- [Adaptive Music (In Gaming) Is Amazing](https://www.youtube.com/watch?v=yLd5wmBNCBM) (Video)
+- [Composer Marty O'Donnell - Working in Video Game Music](https://soundworkscollection.com/post/composer-marty-o-donnell-working-in-video-game-music) (Video) Marty O'Donnell, most known for his role as composer for Bungie's *Halo: Combat Evolved* (2001), talks about his experience creating music for video games. Towards the end of the interview he talks some about dynamic music.
+- [Adaptive Music (In Gaming) Is Amazing](https://www.youtube.com/watch?v=yLd5wmBNCBM) (Video) A fun video by the YouTuber Noodle explaining dynamic music in video games. 
 
 ## Tags
 _____
