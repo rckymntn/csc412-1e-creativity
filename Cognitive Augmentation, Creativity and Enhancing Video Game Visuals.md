@@ -9,7 +9,7 @@ In the digital age, visual design in video games has become an art form in itsel
 Because of their digital nature, video games have required the union of technology and creativity from their conception. Early video game graphics, such as those featured in the game _Computer Space_ (1971) seemed limited by their technology. Bushnell and Dabney, the designers of the game found "...difficulties with their planned design: the computer was not powerful enough to run multiple simultaneous games and refresh the monitors as fast as was needed to make the games playable...the pair attempted to reduce the load on the computer by replacing subroutines [in the game code] such as displaying the background stars—with specialized hardware, but it proved insufficient" [1]. This is no longer the case in the modern age. Today, technology and cognitive augmentation has become a tool used to achieve visual feats that could only be considered science fiction in the days of Computer Space.
 
 ![[Original Nutting Associates Computer Space (1971) gameplay.mp4 |]]
-_Original Nutting Associates Computer Space (1971) gameplay_ [2].
+_Video 1: Original Nutting Associates Computer Space (1971) gameplay [2]._
 
 # Technologies for Video Game Graphics
 ___
@@ -17,7 +17,7 @@ ___
 A range of technologies have supported creativity in the design of video game visuals. [[Game Engines|Game Engines and rendering technologies]] have pushed the boundaries of realism, allowing designers to craft immersive game environments. Tools like [[Motion Capture |motion capture]], further enhance the type of visuals that are possible, allowing game designers to create characters and objects with lifelike behaviors and interactions. Advanced lighting and shadows introduce depth and authenticity, creating immersive virtual worlds that captivate players. Finally, [[CGI|CGI and special effects]] are the finishing touches that create worlds beyond our own. Collectively, these technological advancements allow designers to explore creativity in new ways that would ultimately not be possible without them [3].
 
 ![[Evolution of Graphics.png |300]]
-_Evolution of Video Game Graphics_ [4].
+_Figure 1: Evolution of Video Game Graphics [4]._
 ## Tags
 _____
 #cgi #videogamevisuals #motioncapture #gameengines

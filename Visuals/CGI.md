@@ -9,7 +9,7 @@ ____
 Within the world of video game development, special effects and computer-generated imagery (CGI) have emerged as powerful tools that not only enhance the visual appeal of games but also expand the creative tools available to game designers. Technology plays a pivotal role in pushing the boundaries of creativity within this domain. Therrien explains the principles of CGI: "The principle behind computer-generated imagery (CGI) is very simple: dedicated computer tools simulate a three-dimensional world where objects and eventually whole scenes are modeled from the combination/manipulation of geometric primitives (cubes, spheres, etc.)...With the proper resources, CGI has reached near-cinematographic visual realism" [1]. The result of these tools can be seen in stunning visual games like _Maid of Sker_ - a survival horror video game [2].
 
 ![[Maid of Sker.png|300]] ![[Maid of Sker 2.png|300]]
-_Maid of Sker Gameplay Screenshots_ [2].
+_Figure 1 & 2: Maid of Sker Gameplay Screenshots [2]._
 
 CGI involves using computer software and hardware to generate images, scenes, and animations that would be difficult or impossible to create through traditional methods. The process involves creating 3D models, texturing them, adding motion through animation, applying lighting, rendering the final images, compositing different elements, and performing post-production work. CGI can vary in complexity, from 2D animations to highly detailed 3D scenes, and is widely used in the video game industry to achieve captivating visual results [3].
 ## Tags

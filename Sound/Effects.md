@@ -8,7 +8,7 @@ Effects in and of itself are less clearly linked to creative cognitive augmentat
 
 Audio can be a tremendous boon to a video game's sense of immersion. Effects, similar to [[Music]], can be used to encode information in an auditory way for the player to process and make use of. Unlike music, however, effects are usually considerably shorter.
 
-Effects are common in far more than just video games. Most user interfaces with an auditory component will have some feedback effect when users interact with different components of the interface. Most common this auditory feedback takes the form of "good noise" and "bad noise." A "good noise" will confirm that the user has done something correctly or provide a positive indicator that the application is working as intended. 
+Effects are common in far more than just video games. Most user interfaces with an auditory component will have some feedback effect when users interact with different components of the interface. Most common this auditory feedback takes the form of "good noise" and "bad noise." A "good noise" will confirm that the user has done something correctly or provide a positive indicator that the application is working as intended [1].
 
 So similar to [[Music]] and [[Omnidirectional]] sound, effects achieve cognitive augmentation by encoding information auditorily, but usually on a shorter time frame. 
 
