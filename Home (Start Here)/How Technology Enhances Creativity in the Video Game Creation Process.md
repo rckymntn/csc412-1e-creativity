@@ -1,3 +1,5 @@
+![[HomePage Title.gif]]
+
 ## Table of Contents
 ____
 #### Linked Sub-Sections
