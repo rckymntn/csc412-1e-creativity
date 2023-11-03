@@ -18,8 +18,141 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9cd557afa57f568a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cognitive Augmentation To Enhance Story Design.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9cc667dc9362ac16",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cognitive Augmentation To Enhance Story Design.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8bbc5803745d0ab2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cognitive Augmentation To Enhance Story Design.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c7124990a4848882",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cognitive Augmentation To Enhance Story Design.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5943eb4e9fc434bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cognitive Augmentation To Enhance Story Design.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5acd36589f99621d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cognitive Augmentation To Enhance Story Design.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "032535066203e453",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cognitive Augmentation To Enhance Story Design.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d7a3c5138f840883",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cognitive Augmentation To Enhance Story Design.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8c5f1b4841b577e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cognitive Augmentation To Enhance Story Design.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "93a32ea20fd20d61",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cognitive Augmentation To Enhance Story Design.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b35be4d37158a979",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Story Creation Aspects/Motion Capture.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -85,7 +218,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cognitive Augmentation To Enhance Story Design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +234,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cognitive Augmentation To Enhance Story Design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +256,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cognitive Augmentation To Enhance Story Design.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -145,12 +276,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6b699ca321402e29",
+  "active": "f5a1355224d782f8",
   "lastOpenFiles": [
-    "Story Creation Aspects/Physically-Based Rendering.md",
-    "Story Creation Aspects/Motion Capture.md",
     "Cognitive Augmentation To Enhance Story Design.md",
+    "conflict-files-obsidian-git.md",
     "Cognitive Augmentation, Creativity and Enhancing Video Game Visuals.md",
+    "Story Creation Aspects/Physically-Based Rendering.md",
+    "Story Creation Aspects/Procedural Content Generation.md",
+    "How Technology Enhances Creativity in the Video Game Creation Process.md",
+    "Story Creation Aspects/Motion Capture.md",
     "Works Cited (All Pages).md"
   ]
 }

@@ -4,15 +4,16 @@ ____
 
 # Introduction to Story Design in Video Games
 ____
-
-
+Interactive story-telling is at the heart of many games. From the simple story of a plumber trying to rescue a princess, to massive narratives with complex consequences for every decision. However, the latter is only possible because of the technological augmentation of the story design process. Whether it's allowing for emotional storytelling with motion capture technology, subtle and intricate environmental storytelling with physically-based rendering, or emergent story design with procedurally generated content. One thing is for sure, the ability to create unique and compelling interactive stories is at an all time high.
 # Key Technologies for Augmenting Story Design
 ____
 ### [[Motion Capture]]
 A key aspect of storytelling is being able to show emotion in your characters. Without it, stories become limited and two dimensional. [[Motion Capture]] technology allows the game's creator to be as creative as they want with their characters movements and expressions without being limited by their ability to code. Consequently, creative problems that require subtlety and realism become no problem for the augmented ability of the game's creator.
 ### [[Physically-Based Rendering]]
-
+Stories don't happen in a vacuum, they happen in environments. A dark and stormy night, a sunny island, a post-apocalyptic wasteland. All of these environments have distinct colours and textures to them that are recognizable and elicit emotional reactions in players when they see them. However, the game creator might not know exactly what those characteristics are without some trial and error. That is what makes [[physically-based rendering]] so good for a creator's creativity. It allows the creator to change the characteristics of any surface in the game without having to code or program anything.
 ### [[Procedural Content Generation]]
+
+
 
 # Prospective Technologies for Augmenting Story Design
 
