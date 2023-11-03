@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "8d75c6a1e850ebbb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Sound/Music.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Sound/Music.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Sound/Music.md"
               }
             }
           }
@@ -159,32 +146,32 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8d75c6a1e850ebbb",
+  "active": "680bb78ae841f187",
   "lastOpenFiles": [
-    "Sound/Music.md",
-    "conflict-files-obsidian-git.md",
+    "Sound/Effects.md",
+    "Home (Start Here)/How Technology Enhances Creativity in the Video Game Creation Process.md",
+    "Home (Start Here)/Works Cited (All Pages).md",
+    "Sound/Omnidirectional.md",
+    "Story Creation Aspects/Physically-Based Rendering.md",
+    "Story Creation Aspects/Procedural Content Generation.md",
+    "Sound and Cognitive Augmentation.md",
+    "Cognitive Augmentation To Enhance Story Design.md",
+    "Cognitive Augmentation, Creativity and Enhancing Video Game Visuals.md",
+    "Story Creation Aspects/Motion Capture.md",
+    "Sound/Accessibility.md",
+    "Home (Start Here)/Vault Image Archive/Visuals Title.png",
+    "Home (Start Here)/Vault Image Archive/Video Game Consoles.png",
     "Home (Start Here)/Vault Image Archive/Physically-Based Render.jpg",
     "Home (Start Here)/Vault Image Archive/Motion Capture Set-up.jpg",
     "Home (Start Here)/Vault Image Archive/Motion Capture Result Comparison.png",
     "Home (Start Here)/Vault Image Archive/Motion Capture Headset.jpg",
-    "Home (Start Here)/Vault Image Archive/Adobe Substance Designer Interface.jpg",
-    "Sound/Accessibility.md",
-    "Sound/Effects.md",
-    "Sound/Omnidirectional.md",
-    "Home (Start Here)/How Technology Enhances Creativity in the Video Game Creation Process.md",
-    "Sound and Cognitive Augmentation.md",
-    "Cognitive Augmentation To Enhance Story Design.md",
-    "Cognitive Augmentation, Creativity and Enhancing Video Game Visuals.md",
-    "Home (Start Here)/Works Cited (All Pages).md",
-    "Story Creation Aspects/Procedural Content Generation.md",
-    "Story Creation Aspects/Physically-Based Rendering.md",
-    "Story Creation Aspects/Motion Capture.md",
-    "Home (Start Here)/Vault Image Archive/Visuals Title.png",
-    "personal_reflection.md",
     "Home (Start Here)/Vault Image Archive/HomePage Title.gif",
+    "Home (Start Here)/Vault Image Archive/Adobe Substance Designer Interface.jpg",
+    "Sound/Music.md",
+    "conflict-files-obsidian-git.md",
+    "personal_reflection.md",
     "personal_reflection.txt",
     "logan_reflection.txt",
-    "Home (Start Here)/Vault Image Archive/Video Game Consoles.png",
     "Home (Start Here)/Vault Image Archive",
     "Home (Start Here)",
     "Works Cited (All Pages).md",
