@@ -9,9 +9,11 @@ Motion capture technology is the pipeline of technologies that allow for a video
 
 ![[Motion Capture Set-up.jpg]]
 Figure 1. A depiction of how motion capture is recorded. "All of the reflective markers must be seen by at least a couple of cameras"$^1$
+Image Credit$^1$
 
 ![[Motion Capture Result Comparison.png]]
 Figure 2. A comparison between the video taken by motion capture cameras and the data recorded for animation.
+Image Credit$^3$
 
 ![[Motion Capture Headset.jpg]]
 Figure 3. An actor in full motion capture gear including an HMC to capture facial expressions.
@@ -20,7 +22,11 @@ _____
 #videogamestory #design #videogamevisuals #animation
 ## References (Current Page)
 ____
-[1] Damon Shelton, "The Motion Capture Pipeline of The Last of Us", 2015, https://youtu.be/2GoDlM1Z7BU?si=YZWB4QbufoXNCfB7
+[1] Damon Shelton, Naught Dog, "The Motion Capture Pipeline of The Last of Us", 2015, https://youtu.be/2GoDlM1Z7BU?si=YZWB4QbufoXNCfB7
+
+[2] IIT Palakkad Technology IHub Foundation, "Motion Capture System", 2021, https://iptif.tech/motion-capture-system/
+
+[3] Dang Phuc, Animost, "Pros and Cons of Motion Capture? The development of Motion capture Asia", 2022  https://animost.com/ideas-inspirations/pros-and-cons-of-motion-capture-the-development-of-motion-capture-asia/
 
 ## Other relevant pages:
 _____
