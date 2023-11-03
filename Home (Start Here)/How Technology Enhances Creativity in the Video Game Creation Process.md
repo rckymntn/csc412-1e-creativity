@@ -31,13 +31,15 @@ Video games exist at the intersection of technology and creativity, art and scie
 
 This vault explores the video game creation process in particular, and examines how cognitive augmentation is used to enhance creativity across the several aspects of video game creation - video game story, video game sound and video game visuals. Creativity is a necessary and fundamental characteristic in video game development and advances in technology can further augment designers' creative process or allow for better creative expression. 
 
-Two definitions are important for this vault, cognitive augmentation and creativity. Both are defined below:
+Two definitions are important for this vault, cognitive augmentation and creativity. Both are defined below.
 
-**_Cognitive Augmentation_**:
+**Cognitive Augmentation**
 
-To synthesize this definition, we look at 
+To synthesize this definition, we look at Cinel et al.'s definition of cognitive enhancement: "...by _cognitive enhancement_ we mean the improvement of the processes of acquiring/generating knowledge and understanding the world around us. Such processes encompass attention, the formation of knowledge, memory, judgement and evaluation, reasoning and computation, problem solving and decision making, as well as the comprehension and production of language [2]  and Fulbright's characterization of cognitive systems: "Cognitive systems, whether or not they are human or artificial, process and transform information" [3].
 
-- **_Creativity_**:
+To encompass creativity 
+
+**Creativity**
 
 ## Overview of the Video Game Creation Process
 ___
@@ -57,7 +59,13 @@ _____
 
 ## References (Current Page)
 ____
-[1] “Video game,” New World Encyclopedia, https://www.newworldencyclopedia.org/entry/Video_game (accessed Nov. 1, 2023).
+[1] “Video game,” New World Encyclopedia, https://www.newworldencyclopedia.org/entry/Video_game (accessed Nov 2023).
+
+[2] C. Cinel, D. Valeriani, and R. Poli, “Neurotechnologies for human cognitive augmentation: Current state of the art and future prospects,” Frontiers in human neuroscience, https://pubmed.ncbi.nlm.nih.gov/30766483/ (accessed Nov 2023).
+
+[3] R. Fulbright, “Calculating Cognitive Augmentation – A Case Study,” in Augmented Cognition, 2022, pp. 533–545. doi: 10.1007/978-3-030-22419-6_38.
+  
+
 
 ## Other Relevant Pages
 _____
