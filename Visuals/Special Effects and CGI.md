@@ -9,7 +9,7 @@ ____
 
 Within the world of video game development, special effects and computer-generated imagery (CGI) have emerged as powerful tools that not only enhance the visual appeal of games but also expand the creative tools available to game designers. Technology plays a pivotal role in pushing the boundaries of creativity within this domain. Therrien explains the principles of CGI: "The principle behind computer-generated imagery (CGI) is very simple: dedicated computer tools simulate a three-dimensional world where objects and eventually whole scenes are modeled from the combination/manipulation of geometric primitives (cubes, spheres, etc.)...With the proper resources, CGI has reached near-cinematographic visual realism." [1]
 
-
+![[Maid of Sker.png|500]]
 ## Tags
 _____
 
