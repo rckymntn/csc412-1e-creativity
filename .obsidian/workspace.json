@@ -11,8 +11,12 @@
             "id": "65bdbbb2c7e2599d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Story Creation Aspects/Motion Capture.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Story Creation Aspects/Motion Capture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Story Creation Aspects/Motion Capture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Story Creation Aspects/Motion Capture.md"
+              }
             }
           }
         ]
@@ -138,5 +146,16 @@
     }
   },
   "active": "65bdbbb2c7e2599d",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Story Creation Aspects/Physically-Based Rendering.md",
+    "Cognitive Augmentation To Enhance Story Design.md",
+    "Story Creation Aspects/Procedural Content Generation.md",
+    "Story Creation Aspects/Motion Capture.md",
+    "Sound/Omnidirectional.md",
+    "Sound/Music.md",
+    "Sound/Effects.md",
+    "Sound/Accessibility.md",
+    "Cognitive Augmentation, Creativity and Enhancing Video Game Visuals.md",
+    "Sound and Cognitive Augmentation.md"
+  ]
 }
